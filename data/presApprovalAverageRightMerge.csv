@@ -1,605 +1,1132 @@
 ,President,year,Approving ,Disapproving ,unsure/no data,f_count,f_name,l_count,l_name,total
-0,Franklin D. Roosevelt,1941.0,67.71428571428571,24.142857142857142,6.571428571428571,2217,Franklin,646,Roosevelt,2435860
-1,Franklin D. Roosevelt,1942.0,76.22222222222223,14.555555555555555,7.333333333333333,2374,Franklin,608,Roosevelt,2731319
-2,Franklin D. Roosevelt,1943.0,71.5,18.0,8.5,1980,Franklin,610,Roosevelt,2821928
-3,Harry S. Truman,1945.0,83.0,6.25,9.0,5673,Harry,540,Truman,2652638
-4,Harry S. Truman,1946.0,43.125,42.0,13.75,6051,Harry,286,Truman,3194834
-5,Harry S. Truman,1947.0,57.0,27.0,14.777777777777779,6527,Harry,204,Truman,3601867
-6,Harry S. Truman,1948.0,37.333333333333336,46.333333333333336,15.0,5965,Harry,160,Truman,3452283
-7,Harry S. Truman,1949.0,54.166666666666664,28.333333333333332,16.333333333333332,5558,Harry,158,Truman,3484550
-8,Harry S. Truman,1950.0,38.5,43.642857142857146,16.357142857142858,5392,Harry,119,Truman,3503853
-9,Harry S. Truman,1951.0,25.5,58.6,13.8,5318,Harry,76,Truman,3681122
-10,Harry S. Truman,1952.0,28.636363636363637,58.54545454545455,10.727272727272727,5007,Harry,71,Truman,3798975
-11,Dwight D. Eisenhower,1953.0,68.27272727272727,13.818181818181818,15.363636363636363,2698,Dwight,0,Eisenhower,3850103
-12,Dwight D. Eisenhower,1954.0,64.8125,21.25,12.0,2044,Dwight,0,Eisenhower,3979056
-13,Dwight D. Eisenhower,1955.0,70.26666666666667,15.4,12.666666666666666,2158,Dwight,0,Eisenhower,4012582
-14,Dwight D. Eisenhower,1956.0,72.41666666666667,15.75,10.083333333333334,2375,Dwight,0,Eisenhower,4121206
-15,Dwight D. Eisenhower,1957.0,63.46666666666667,21.466666666666665,13.066666666666666,2039,Dwight,0,Eisenhower,4200026
-16,Dwight D. Eisenhower,1958.0,53.46666666666667,29.733333333333334,14.266666666666667,1709,Dwight,0,Eisenhower,4131596
-17,Dwight D. Eisenhower,1959.0,62.76923076923077,21.76923076923077,14.0,1603,Dwight,0,Eisenhower,4156553
-18,Dwight D. Eisenhower,1960.0,61.0,25.11111111111111,12.5,1735,Dwight,0,Eisenhower,4154810
-19,John F. Kennedy,1961.0,75.57142857142857,9.142857142857142,13.928571428571429,80181,John,177,Kennedy,4139818
-20,John F. Kennedy,1962.0,71.0,16.076923076923077,11.615384615384615,78731,John,85,Kennedy,4035493
-21,John F. Kennedy,1963.0,63.166666666666664,23.416666666666668,12.0,78907,John,164,Kennedy,3958972
-22,Lyndon B. Johnson,1963.0,75.0,3.0,20.5,177,Lyndon,41,Johnson,3958972
-23,Lyndon B. Johnson,1964.0,74.23076923076923,10.538461538461538,13.384615384615385,518,Lyndon,43,Johnson,3887864
-24,Lyndon B. Johnson,1965.0,65.82352941176471,20.058823529411764,12.529411764705882,306,Lyndon,37,Johnson,3626379
-25,Lyndon B. Johnson,1966.0,51.0,33.875,13.6875,161,Lyndon,31,Johnson,3475832
-26,Lyndon B. Johnson,1967.0,42.8235294117647,41.529411764705884,14.058823529411764,101,Lyndon,29,Johnson,3395291
-27,Lyndon B. Johnson,1968.0,42.07692307692308,44.84615384615385,11.615384615384615,86,Lyndon,31,Johnson,3379031
-28,Lyndon B. Johnson,1969.0,49.0,37.0,14.0,89,Lyndon,29,Johnson,3476679
-29,Richard Nixon,1969.0,58.7,17.5,22.25,31276,Richard,10,Nixon,3476679
-30,Richard Nixon,1970.0,55.5,28.27777777777778,14.722222222222221,30627,Richard,7,Nixon,3607741
-31,Richard Nixon,1971.0,47.42857142857143,35.5,15.571428571428571,26310,Richard,0,Nixon,3432676
-32,Richard Nixon,1972.0,55.7,32.7,10.1,22461,Richard,0,Nixon,3143851
-33,Richard Nixon,1973.0,41.73684210526316,46.10526315789474,10.631578947368421,20091,Richard,5,Nixon,3017477
-34,Gerald R. Ford,1974.0,53.375,25.5,19.75,2436,Gerald,6,Ford,3040518
-35,Richard Nixon,1974.0,25.294117647058822,60.8235294117647,12.470588235294118,18746,Richard,0,Nixon,3040518
-36,Gerald R. Ford,1975.0,42.55,40.15,15.9,2417,Gerald,15,Ford,3019906
-37,Gerald R. Ford,1976.0,47.875,38.25,12.75,2161,Gerald,14,Ford,3035000
-38,Jimmy Carter,1977.0,61.958333333333336,19.416666666666668,17.416666666666668,2661,Jimmy,133,Carter,3176681
-39,Jimmy Carter,1978.0,44.833333333333336,37.708333333333336,16.083333333333332,2194,Jimmy,81,Carter,3173908
-40,Jimmy Carter,1979.0,36.34615384615385,48.96153846153846,13.115384615384615,2260,Jimmy,64,Carter,3326998
-41,Jimmy Carter,1980.0,40.23529411764706,48.0,10.294117647058824,2222,Jimmy,99,Carter,3443809
-42,Ronald Reagan,1981.0,56.8235294117647,28.11764705882353,13.588235294117647,5576,Ronald,161,Reagan,3458372
-43,Ronald Reagan,1982.0,43.36842105263158,45.31578947368421,9.842105263157896,5249,Ronald,86,Reagan,3506648
-44,Ronald Reagan,1983.0,43.25,45.25,10.0,4743,Ronald,87,Reagan,3461793
-45,Ronald Reagan,1984.0,53.96,35.44,9.08,4554,Ronald,87,Reagan,3486803
-46,Ronald Reagan,1985.0,60.8,28.65,9.15,4329,Ronald,94,Reagan,3567068
-47,Ronald Reagan,1986.0,62.05882352941177,27.058823529411764,9.294117647058824,4266,Ronald,86,Reagan,3554828
-48,Ronald Reagan,1987.0,48.95454545454545,40.40909090909091,9.181818181818182,4181,Ronald,97,Reagan,3603553
-49,Ronald Reagan,1988.0,53.125,35.75,9.75,4208,Ronald,116,Reagan,3692441
-50,George Bush,1989.0,62.111111111111114,17.40740740740741,19.25925925925926,0,George,0,Bush,1707425
-51,George Bush,1990.0,65.23255813953489,22.767441860465116,10.627906976744185,0,George,0,Bush,0
-52,George Bush,1991.0,73.30434782608695,18.152173913043477,7.108695652173913,0,George,0,Bush,0
-53,George Bush,1992.0,38.78048780487805,52.073170731707314,7.560975609756097,0,George,0,Bush,0
-54,George Bush,1993.0,56.0,37.0,7.0,0,George,0,Bush,0
-55,William J. Clinton,1993.0,48.03703703703704,40.44444444444444,10.074074074074074,0,Bill,0,Clinton,0
-56,William J. Clinton,1994.0,46.13793103448276,45.58620689655172,6.862068965517241,0,Bill,0,Clinton,0
-57,William J. Clinton,1995.0,46.857142857142854,42.76190476190476,8.857142857142858,0,Bill,0,Clinton,0
-58,William J. Clinton,1996.0,53.77272727272727,38.0,7.181818181818182,0,Bill,0,Clinton,0
-59,William J. Clinton,1997.0,57.45,33.05,8.15,0,Bill,0,Clinton,0
-60,William J. Clinton,1998.0,63.1,31.3,4.25,0,Bill,0,Clinton,0
-61,William J. Clinton,1999.0,61.35897435897436,34.12820512820513,3.3333333333333335,0,Bill,0,Clinton,0
-62,William J. Clinton,2000.0,59.82142857142857,35.17857142857143,3.642857142857143,0,Bill,0,Clinton,0
-63,George W. Bush,2001.0,66.06060606060606,23.90909090909091,8.696969696969697,0,George,0,Bush,0
-64,William J. Clinton,2001.0,64.5,30.0,4.5,0,Bill,0,Clinton,0
-65,George W. Bush,2002.0,71.775,21.725,4.975,0,George,0,Bush,0
-66,George W. Bush,2003.0,60.333333333333336,34.51282051282051,3.717948717948718,0,George,0,Bush,0
-67,George W. Bush,2004.0,50.34285714285714,45.51428571428571,2.6285714285714286,0,George,0,Bush,0
-68,George W. Bush,2005.0,45.3421052631579,50.0,3.289473684210526,0,George,0,Bush,0
-69,George W. Bush,2006.0,37.9,57.8,4.333333333333333,0,George,0,Bush,0
-70,George W. Bush,2007.0,33.53846153846154,62.19230769230769,4.230769230769231,0,George,0,Bush,0
-71,George W. Bush,2008.0,29.964285714285715,65.32142857142857,4.714285714285714,0,George,0,Bush,0
-72,Barack Obama,2009.0,57.625,33.923780487804876,8.454268292682928,0,Barack,0,Obama,0
-73,George W. Bush,2009.0,34.0,61.0,5.0,0,George,0,Bush,0
-74,Barack Obama,2010.0,46.85919540229885,45.775862068965516,7.367816091954023,0,Barack,0,Obama,0
-75,Barack Obama,2011.0,44.67908309455587,47.191977077363894,8.097421203438396,0,Barack,0,Obama,0
-76,Barack Obama,2012.0,47.566473988439306,45.58670520231214,6.864161849710983,0,Barack,0,Obama,0
-77,Barack Obama,2013.0,46.484330484330485,46.39316239316239,7.128205128205129,0,Barack,0,Obama,0
-78,Barack Obama,2014.0,42.36494252873563,51.98850574712644,5.649425287356322,0,Barack,0,Obama,0
+0,Franklin D. Roosevelt,1941.0,67.71428571428571,24.142857142857142,6.571428571428571,2189,Franklin,627,Roosevelt,2288235
+1,Franklin D. Roosevelt,1942.0,76.22222222222223,14.555555555555555,7.333333333333333,2347,Franklin,581,Roosevelt,2576573
+2,Franklin D. Roosevelt,1943.0,71.5,18.0,8.5,1959,Franklin,592,Roosevelt,2664927
+3,Harry S. Truman,1945.0,83.0,6.25,9.0,5648,Harry,505,Truman,2501963
+4,Harry S. Truman,1946.0,43.125,42.0,13.75,6028,Harry,238,Truman,3032350
+5,Harry S. Truman,1947.0,57.0,27.0,14.777777777777779,6508,Harry,165,Truman,3427532
+6,Harry S. Truman,1948.0,37.333333333333336,46.333333333333336,15.0,5945,Harry,125,Truman,3280438
+7,Harry S. Truman,1949.0,54.166666666666664,28.333333333333332,16.333333333333332,5538,Harry,123,Truman,3312353
+8,Harry S. Truman,1950.0,38.5,43.642857142857146,16.357142857142858,5373,Harry,65,Truman,3330666
+9,Harry S. Truman,1951.0,25.5,58.6,13.8,5299,Harry,43,Truman,3504403
+10,Harry S. Truman,1952.0,28.636363636363637,58.54545454545455,10.727272727272727,4991,Harry,32,Truman,3617370
+11,Dwight D. Eisenhower,1953.0,68.27272727272727,13.818181818181818,15.363636363636363,2684,Dwight,0,Eisenhower,3665807
+12,Dwight D. Eisenhower,1954.0,64.8125,21.25,12.0,2026,Dwight,0,Eisenhower,3790625
+13,Dwight D. Eisenhower,1955.0,70.26666666666667,15.4,12.666666666666666,2136,Dwight,0,Eisenhower,3821699
+14,Dwight D. Eisenhower,1956.0,72.41666666666667,15.75,10.083333333333334,2346,Dwight,0,Eisenhower,3926008
+15,Dwight D. Eisenhower,1957.0,63.46666666666667,21.466666666666665,13.066666666666666,2017,Dwight,0,Eisenhower,4002231
+16,Dwight D. Eisenhower,1958.0,53.46666666666667,29.733333333333334,14.266666666666667,1681,Dwight,0,Eisenhower,3933693
+17,Dwight D. Eisenhower,1959.0,62.76923076923077,21.76923076923077,14.0,1577,Dwight,0,Eisenhower,3955363
+18,Dwight D. Eisenhower,1960.0,61.0,25.11111111111111,12.5,1708,Dwight,0,Eisenhower,3948284
+19,John F. Kennedy,1961.0,75.57142857142857,9.142857142857142,13.928571428571429,80139,John,146,Kennedy,3929909
+20,John F. Kennedy,1962.0,71.0,16.076923076923077,11.615384615384615,78681,John,53,Kennedy,3826131
+21,John F. Kennedy,1963.0,63.166666666666664,23.416666666666668,12.0,78867,John,122,Kennedy,3747914
+22,Lyndon B. Johnson,1963.0,75.0,3.0,20.5,127,Lyndon,6,Johnson,3747914
+23,Lyndon B. Johnson,1964.0,74.23076923076923,10.538461538461538,13.384615384615385,466,Lyndon,12,Johnson,3674865
+24,Lyndon B. Johnson,1965.0,65.82352941176471,20.058823529411764,12.529411764705882,259,Lyndon,5,Johnson,3420034
+25,Lyndon B. Johnson,1966.0,51.0,33.875,13.6875,114,Lyndon,0,Johnson,3268132
+26,Lyndon B. Johnson,1967.0,42.8235294117647,41.529411764705884,14.058823529411764,32,Lyndon,5,Johnson,3184540
+27,Lyndon B. Johnson,1968.0,42.07692307692308,44.84615384615385,11.615384615384615,34,Lyndon,6,Johnson,3160072
+28,Lyndon B. Johnson,1969.0,49.0,37.0,14.0,42,Lyndon,0,Johnson,3245564
+29,Richard Nixon,1969.0,58.7,17.5,22.25,31201,Richard,0,Nixon,3245564
+30,Richard Nixon,1970.0,55.5,28.27777777777778,14.722222222222221,30564,Richard,0,Nixon,3359931
+31,Richard Nixon,1971.0,47.42857142857143,35.5,15.571428571428571,26235,Richard,0,Nixon,3177813
+32,Richard Nixon,1972.0,55.7,32.7,10.1,22407,Richard,0,Nixon,2890397
+33,Richard Nixon,1973.0,41.73684210526316,46.10526315789474,10.631578947368421,20028,Richard,0,Nixon,2759517
+34,Gerald R. Ford,1974.0,53.375,25.5,19.75,2403,Gerald,0,Ford,2774144
+35,Richard Nixon,1974.0,25.294117647058822,60.8235294117647,12.470588235294118,18691,Richard,0,Nixon,2774144
+36,Gerald R. Ford,1975.0,42.55,40.15,15.9,2393,Gerald,0,Ford,2744651
+37,Gerald R. Ford,1976.0,47.875,38.25,12.75,2127,Gerald,0,Ford,2754069
+38,Jimmy Carter,1977.0,61.958333333333336,19.416666666666668,17.416666666666668,2612,Jimmy,53,Carter,2882671
+39,Jimmy Carter,1978.0,44.833333333333336,37.708333333333336,16.083333333333332,2155,Jimmy,25,Carter,2877289
+40,Jimmy Carter,1979.0,36.34615384615385,48.96153846153846,13.115384615384615,2216,Jimmy,19,Carter,3018685
+41,Jimmy Carter,1980.0,40.23529411764706,48.0,10.294117647058824,2189,Jimmy,39,Carter,3130096
+42,Ronald Reagan,1981.0,56.8235294117647,28.11764705882353,13.588235294117647,5545,Ronald,76,Reagan,3145554
+43,Ronald Reagan,1982.0,43.36842105263158,45.31578947368421,9.842105263157896,5201,Ronald,32,Reagan,3192364
+44,Ronald Reagan,1983.0,43.25,45.25,10.0,4702,Ronald,33,Reagan,3153008
+45,Ronald Reagan,1984.0,53.96,35.44,9.08,4516,Ronald,33,Reagan,3176106
+46,Ronald Reagan,1985.0,60.8,28.65,9.15,4296,Ronald,34,Reagan,3245530
+47,Ronald Reagan,1986.0,62.05882352941177,27.058823529411764,9.294117647058824,4233,Ronald,32,Reagan,3227500
+48,Ronald Reagan,1987.0,48.95454545454545,40.40909090909091,9.181818181818182,4155,Ronald,38,Reagan,3265895
+49,Ronald Reagan,1988.0,53.125,35.75,9.75,4169,Ronald,57,Reagan,3340519
+50,George Bush,1989.0,62.111111111111114,17.40740740740741,19.25925925925926,4510,George,0,Bush,3475179
+51,George Bush,1990.0,65.23255813953489,22.767441860465116,10.627906976744185,4561,George,0,Bush,3566331
+52,George Bush,1991.0,73.30434782608695,18.152173913043477,7.108695652173913,4172,George,0,Bush,3502689
+53,George Bush,1992.0,38.78048780487805,52.073170731707314,7.560975609756097,3890,George,0,Bush,3442170
+54,George Bush,1993.0,56.0,37.0,7.0,3512,George,0,Bush,3363860
+55,William J. Clinton,1993.0,48.03703703703704,40.44444444444444,10.074074074074074,86,Bill,816,Clinton,3363860
+56,William J. Clinton,1994.0,46.13793103448276,45.58620689655172,6.862068965517241,61,Bill,551,Clinton,3307185
+57,William J. Clinton,1995.0,46.857142857142854,42.76190476190476,8.857142857142858,59,Bill,444,Clinton,3249146
+58,William J. Clinton,1996.0,53.77272727272727,38.0,7.181818181818182,57,Bill,355,Clinton,3224919
+59,William J. Clinton,1997.0,57.45,33.05,8.15,66,Bill,385,Clinton,3193018
+60,William J. Clinton,1998.0,63.1,31.3,4.25,47,Bill,262,Clinton,3229407
+61,William J. Clinton,1999.0,61.35897435897436,34.12820512820513,3.3333333333333335,50,Bill,212,Clinton,3233110
+62,William J. Clinton,2000.0,59.82142857142857,35.17857142857143,3.642857142857143,73,Bill,254,Clinton,3296850
+63,George W. Bush,2001.0,66.06060606060606,23.90909090909091,8.696969696969697,3077,George,0,Bush,3250984
+64,William J. Clinton,2001.0,64.5,30.0,4.5,60,Bill,200,Clinton,3250984
+65,George W. Bush,2002.0,71.775,21.725,4.975,3006,George,0,Bush,3238053
+66,George W. Bush,2003.0,60.333333333333336,34.51282051282051,3.717948717948718,2905,George,0,Bush,3288978
+67,George W. Bush,2004.0,50.34285714285714,45.51428571428571,2.6285714285714286,2733,George,0,Bush,3293984
+68,George W. Bush,2005.0,45.3421052631579,50.0,3.289473684210526,2810,George,0,Bush,3305315
+69,George W. Bush,2006.0,37.9,57.8,4.333333333333333,2692,George,0,Bush,3387737
+70,George W. Bush,2007.0,33.53846153846154,62.19230769230769,4.230769230769231,2749,George,0,Bush,3412417
+71,George W. Bush,2008.0,29.964285714285715,65.32142857142857,4.714285714285714,2541,George,0,Bush,3340318
+72,Barack Obama,2009.0,57.625,33.923780487804876,8.454268292682928,27,Barack,0,Obama,3232116
+73,George W. Bush,2009.0,34.0,61.0,5.0,2367,George,0,Bush,3232116
+74,Barack Obama,2010.0,46.85919540229885,45.775862068965516,7.367816091954023,0,Barack,0,Obama,3116548
+75,Barack Obama,2011.0,44.67908309455587,47.191977077363894,8.097421203438396,0,Barack,0,Obama,3079145
+76,Barack Obama,2012.0,47.566473988439306,45.58670520231214,6.864161849710983,0,Barack,0,Obama,3073858
+77,Barack Obama,2013.0,46.484330484330485,46.39316239316239,7.128205128205129,0,Barack,0,Obama,3066443
+78,Barack Obama,2014.0,42.36494252873563,51.98850574712644,5.649425287356322,0,Barack,0,Obama,3113611
 79,Barack Obama,2015.0,46.18857142857143,49.14,4.688571428571429,0,Barack,0,Obama,0
-<<<<<<< Updated upstream
-80,Barack Obama,2008.0,,,,0,Barack,0,Obama,0
-81,George W. Bush,2000.0,,,,0,George,0,Bush,0
-82,William J. Clinton,1992.0,,,,0,Bill,0,Clinton,0
-83,George Bush,1988.0,,,,4327,George,0,Bush,3692441
-84,Ronald Reagan,1980.0,,,,5803,Ronald,219,Reagan,3443809
-85,Ronald Reagan,1989.0,,,,0,Ronald,79,Reagan,1707425
-86,Jimmy Carter,1976.0,,,,2529,Jimmy,173,Carter,3035000
-87,Jimmy Carter,1981.0,,,,2118,Jimmy,100,Carter,3458372
-88,Gerald R. Ford,1973.0,,,,2621,Gerald,19,Ford,3017477
-89,Gerald R. Ford,1977.0,,,,2061,Gerald,9,Ford,3176681
-90,Richard Nixon,1968.0,,,,33162,Richard,0,Nixon,3379031
-91,Lyndon B. Johnson,1962.0,,,,148,Lyndon,32,Johnson,4035493
-92,John F. Kennedy,1960.0,,,,76363,John,117,Kennedy,4154810
-93,Dwight D. Eisenhower,1952.0,,,,2418,Dwight,5,Eisenhower,3798975
-94,Dwight D. Eisenhower,1961.0,,,,1669,Dwight,0,Eisenhower,4139818
-95,Harry S. Truman,1944.0,,,,5499,Harry,196,Truman,2689659
-96,Harry S. Truman,1953.0,,,,4582,Harry,71,Truman,3850103
-97,Franklin D. Roosevelt,1932.0,,,,2767,Franklin,837,Roosevelt,2110802
-98,Franklin D. Roosevelt,1933.0,,,,5384,Franklin,1226,Roosevelt,1998837
-99,Franklin D. Roosevelt,1934.0,,,,4169,Franklin,1025,Roosevelt,2076330
-100,Franklin D. Roosevelt,1935.0,,,,2626,Franklin,766,Roosevelt,2089358
-101,Franklin D. Roosevelt,1936.0,,,,2957,Franklin,736,Roosevelt,2077176
-102,Franklin D. Roosevelt,1937.0,,,,2534,Franklin,684,Roosevelt,2130181
-103,Franklin D. Roosevelt,1938.0,,,,2034,Franklin,663,Roosevelt,2212118
-104,Franklin D. Roosevelt,1939.0,,,,1866,Franklin,593,Roosevelt,2203062
-105,Franklin D. Roosevelt,1940.0,,,,2401,Franklin,640,Roosevelt,2302225
-106,Franklin D. Roosevelt,1944.0,,,,1821,Franklin,567,Roosevelt,2689659
-107,Franklin D. Roosevelt,1945.0,,,,1905,Franklin,566,Roosevelt,2652638
-=======
-80,Barack Obama,2008.0,,,,21,Barack,0,Obama,3340318
-81,George W. Bush,2000.0,,,,3024,George,0,Bush,3296850
-82,George W. Bush,2010.0,,,,2346,George,0,Bush,3116548
-83,George W. Bush,2011.0,,,,2304,George,0,Bush,3079145
-84,George W. Bush,2012.0,,,,2317,George,0,Bush,3073858
-85,George W. Bush,2013.0,,,,2529,George,0,Bush,3066443
-86,George W. Bush,2014.0,,,,2985,George,0,Bush,3113611
-87,George W. Bush,2015.0,,,,0,George,0,Bush,0
-88,William J. Clinton,1992.0,,,,80,Bill,1454,Clinton,3442170
-89,William J. Clinton,2002.0,,,,36,Bill,208,Clinton,3238053
-90,William J. Clinton,2003.0,,,,39,Bill,201,Clinton,3288978
-91,William J. Clinton,2004.0,,,,48,Bill,216,Clinton,3293984
-92,William J. Clinton,2005.0,,,,37,Bill,245,Clinton,3305315
-93,William J. Clinton,2006.0,,,,41,Bill,185,Clinton,3387737
-94,William J. Clinton,2007.0,,,,47,Bill,253,Clinton,3412417
-95,William J. Clinton,2008.0,,,,32,Bill,184,Clinton,3340318
-96,William J. Clinton,2009.0,,,,14,Bill,161,Clinton,3232116
-97,William J. Clinton,2010.0,,,,25,Bill,156,Clinton,3116548
-98,William J. Clinton,2011.0,,,,12,Bill,174,Clinton,3079145
-99,William J. Clinton,2012.0,,,,21,Bill,175,Clinton,3073858
-100,William J. Clinton,2013.0,,,,18,Bill,183,Clinton,3066443
-101,William J. Clinton,2014.0,,,,20,Bill,166,Clinton,3113611
-102,William J. Clinton,2015.0,,,,0,Bill,0,Clinton,0
-103,George Bush,1988.0,,,,4283,George,0,Bush,3340519
-104,George Bush,1994.0,,,,3310,George,0,Bush,3307185
-105,George Bush,1995.0,,,,3280,George,0,Bush,3249146
-106,George Bush,1996.0,,,,3220,George,0,Bush,3224919
-107,George Bush,1997.0,,,,3167,George,0,Bush,3193018
-108,George Bush,1998.0,,,,3027,George,0,Bush,3229407
-109,George Bush,1999.0,,,,3030,George,0,Bush,3233110
-110,George Bush,2000.0,,,,3024,George,0,Bush,3296850
-111,George Bush,2001.0,,,,3077,George,0,Bush,3250984
-112,George Bush,2002.0,,,,3006,George,0,Bush,3238053
-113,George Bush,2003.0,,,,2905,George,0,Bush,3288978
-114,George Bush,2004.0,,,,2733,George,0,Bush,3293984
-115,George Bush,2005.0,,,,2810,George,0,Bush,3305315
-116,George Bush,2006.0,,,,2692,George,0,Bush,3387737
-117,George Bush,2007.0,,,,2749,George,0,Bush,3412417
-118,George Bush,2008.0,,,,2541,George,0,Bush,3340318
-119,George Bush,2009.0,,,,2367,George,0,Bush,3232116
-120,George Bush,2010.0,,,,2346,George,0,Bush,3116548
-121,George Bush,2011.0,,,,2304,George,0,Bush,3079145
-122,George Bush,2012.0,,,,2317,George,0,Bush,3073858
-123,George Bush,2013.0,,,,2529,George,0,Bush,3066443
-124,George Bush,2014.0,,,,2985,George,0,Bush,3113611
-125,George Bush,2015.0,,,,0,George,0,Bush,0
-126,Ronald Reagan,1980.0,,,,5768,Ronald,116,Reagan,3130096
-127,Ronald Reagan,1989.0,,,,4100,Ronald,49,Reagan,3475179
-128,Ronald Reagan,1990.0,,,,3883,Ronald,74,Reagan,3566331
-129,Ronald Reagan,1991.0,,,,3667,Ronald,92,Reagan,3502689
-130,Ronald Reagan,1992.0,,,,3220,Ronald,123,Reagan,3442170
-131,Ronald Reagan,1993.0,,,,2867,Ronald,209,Reagan,3363860
-132,Ronald Reagan,1994.0,,,,2557,Ronald,293,Reagan,3307185
-133,Ronald Reagan,1995.0,,,,2390,Ronald,409,Reagan,3249146
-134,Ronald Reagan,1996.0,,,,2206,Ronald,618,Reagan,3224919
-135,Ronald Reagan,1997.0,,,,2076,Ronald,767,Reagan,3193018
-136,Ronald Reagan,1998.0,,,,1836,Ronald,945,Reagan,3229407
-137,Ronald Reagan,1999.0,,,,1844,Ronald,969,Reagan,3233110
-138,Ronald Reagan,2000.0,,,,1728,Ronald,1225,Reagan,3296850
-139,Ronald Reagan,2001.0,,,,1634,Ronald,1612,Reagan,3250984
-140,Ronald Reagan,2002.0,,,,1489,Ronald,1748,Reagan,3238053
-141,Ronald Reagan,2003.0,,,,1385,Ronald,1786,Reagan,3288978
-142,Ronald Reagan,2004.0,,,,1419,Ronald,2566,Reagan,3293984
-143,Ronald Reagan,2005.0,,,,1285,Ronald,2641,Reagan,3305315
-144,Ronald Reagan,2006.0,,,,1355,Ronald,2441,Reagan,3387737
-145,Ronald Reagan,2007.0,,,,1152,Ronald,2442,Reagan,3412417
-146,Ronald Reagan,2008.0,,,,1054,Ronald,2536,Reagan,3340318
-147,Ronald Reagan,2009.0,,,,895,Ronald,2660,Reagan,3232116
-148,Ronald Reagan,2010.0,,,,887,Ronald,2600,Reagan,3116548
-149,Ronald Reagan,2011.0,,,,859,Ronald,2779,Reagan,3079145
-150,Ronald Reagan,2012.0,,,,760,Ronald,3249,Reagan,3073858
-151,Ronald Reagan,2013.0,,,,700,Ronald,3180,Reagan,3066443
-152,Ronald Reagan,2014.0,,,,759,Ronald,3031,Reagan,3113611
-153,Ronald Reagan,2015.0,,,,0,Ronald,0,Reagan,0
-154,Jimmy Carter,1976.0,,,,2480,Jimmy,104,Carter,2754069
-155,Jimmy Carter,1981.0,,,,2061,Jimmy,46,Carter,3145554
-156,Jimmy Carter,1982.0,,,,2078,Jimmy,68,Carter,3192364
-157,Jimmy Carter,1983.0,,,,2072,Jimmy,49,Carter,3153008
-158,Jimmy Carter,1984.0,,,,2051,Jimmy,84,Carter,3176106
-159,Jimmy Carter,1985.0,,,,1836,Jimmy,118,Carter,3245530
-160,Jimmy Carter,1986.0,,,,1792,Jimmy,122,Carter,3227500
-161,Jimmy Carter,1987.0,,,,1799,Jimmy,161,Carter,3265895
-162,Jimmy Carter,1988.0,,,,1693,Jimmy,205,Carter,3340519
-163,Jimmy Carter,1989.0,,,,1729,Jimmy,263,Carter,3475179
-164,Jimmy Carter,1990.0,,,,1767,Jimmy,287,Carter,3566331
-165,Jimmy Carter,1991.0,,,,1707,Jimmy,383,Carter,3502689
-166,Jimmy Carter,1992.0,,,,1538,Jimmy,461,Carter,3442170
-167,Jimmy Carter,1993.0,,,,1511,Jimmy,522,Carter,3363860
-168,Jimmy Carter,1994.0,,,,1360,Jimmy,519,Carter,3307185
-169,Jimmy Carter,1995.0,,,,1339,Jimmy,909,Carter,3249146
-170,Jimmy Carter,1996.0,,,,1332,Jimmy,1217,Carter,3224919
-171,Jimmy Carter,1997.0,,,,1204,Jimmy,1536,Carter,3193018
-172,Jimmy Carter,1998.0,,,,1061,Jimmy,1807,Carter,3229407
-173,Jimmy Carter,1999.0,,,,1083,Jimmy,1982,Carter,3233110
-174,Jimmy Carter,2000.0,,,,1159,Jimmy,2591,Carter,3296850
-175,Jimmy Carter,2001.0,,,,1088,Jimmy,3453,Carter,3250984
-176,Jimmy Carter,2002.0,,,,1148,Jimmy,3498,Carter,3238053
-177,Jimmy Carter,2003.0,,,,1094,Jimmy,4234,Carter,3288978
-178,Jimmy Carter,2004.0,,,,1111,Jimmy,5066,Carter,3293984
-179,Jimmy Carter,2005.0,,,,1068,Jimmy,5960,Carter,3305315
-180,Jimmy Carter,2006.0,,,,961,Jimmy,6500,Carter,3387737
-181,Jimmy Carter,2007.0,,,,924,Jimmy,6157,Carter,3412417
-182,Jimmy Carter,2008.0,,,,848,Jimmy,7106,Carter,3340318
-183,Jimmy Carter,2009.0,,,,796,Jimmy,8243,Carter,3232116
-184,Jimmy Carter,2010.0,,,,740,Jimmy,8259,Carter,3116548
-185,Jimmy Carter,2011.0,,,,620,Jimmy,8725,Carter,3079145
-186,Jimmy Carter,2012.0,,,,551,Jimmy,9421,Carter,3073858
-187,Jimmy Carter,2013.0,,,,541,Jimmy,9804,Carter,3066443
-188,Jimmy Carter,2014.0,,,,501,Jimmy,10915,Carter,3113611
-189,Jimmy Carter,2015.0,,,,0,Jimmy,0,Carter,0
-190,Gerald R. Ford,1973.0,,,,2590,Gerald,0,Ford,2759517
-191,Gerald R. Ford,1977.0,,,,2032,Gerald,0,Ford,2882671
-192,Gerald R. Ford,1978.0,,,,1876,Gerald,0,Ford,2877289
-193,Gerald R. Ford,1979.0,,,,1856,Gerald,0,Ford,3018685
-194,Gerald R. Ford,1980.0,,,,1799,Gerald,0,Ford,3130096
-195,Gerald R. Ford,1981.0,,,,1745,Gerald,0,Ford,3145554
-196,Gerald R. Ford,1982.0,,,,1728,Gerald,0,Ford,3192364
-197,Gerald R. Ford,1983.0,,,,1536,Gerald,0,Ford,3153008
-198,Gerald R. Ford,1984.0,,,,1425,Gerald,0,Ford,3176106
-199,Gerald R. Ford,1985.0,,,,1420,Gerald,0,Ford,3245530
-200,Gerald R. Ford,1986.0,,,,1438,Gerald,0,Ford,3227500
-201,Gerald R. Ford,1987.0,,,,1417,Gerald,0,Ford,3265895
-202,Gerald R. Ford,1988.0,,,,1379,Gerald,5,Ford,3340519
-203,Gerald R. Ford,1989.0,,,,1452,Gerald,0,Ford,3475179
-204,Gerald R. Ford,1990.0,,,,1434,Gerald,0,Ford,3566331
-205,Gerald R. Ford,1991.0,,,,1232,Gerald,0,Ford,3502689
-206,Gerald R. Ford,1992.0,,,,1134,Gerald,0,Ford,3442170
-207,Gerald R. Ford,1993.0,,,,1098,Gerald,0,Ford,3363860
-208,Gerald R. Ford,1994.0,,,,929,Gerald,0,Ford,3307185
-209,Gerald R. Ford,1995.0,,,,851,Gerald,10,Ford,3249146
-210,Gerald R. Ford,1996.0,,,,790,Gerald,16,Ford,3224919
-211,Gerald R. Ford,1997.0,,,,745,Gerald,18,Ford,3193018
-212,Gerald R. Ford,1998.0,,,,632,Gerald,0,Ford,3229407
-213,Gerald R. Ford,1999.0,,,,644,Gerald,5,Ford,3233110
-214,Gerald R. Ford,2000.0,,,,639,Gerald,5,Ford,3296850
-215,Gerald R. Ford,2001.0,,,,569,Gerald,15,Ford,3250984
-216,Gerald R. Ford,2002.0,,,,529,Gerald,9,Ford,3238053
-217,Gerald R. Ford,2003.0,,,,465,Gerald,17,Ford,3288978
-218,Gerald R. Ford,2004.0,,,,522,Gerald,12,Ford,3293984
-219,Gerald R. Ford,2005.0,,,,432,Gerald,18,Ford,3305315
-220,Gerald R. Ford,2006.0,,,,426,Gerald,52,Ford,3387737
-221,Gerald R. Ford,2007.0,,,,424,Gerald,24,Ford,3412417
-222,Gerald R. Ford,2008.0,,,,370,Gerald,35,Ford,3340318
-223,Gerald R. Ford,2009.0,,,,355,Gerald,38,Ford,3232116
-224,Gerald R. Ford,2010.0,,,,303,Gerald,43,Ford,3116548
-225,Gerald R. Ford,2011.0,,,,318,Gerald,81,Ford,3079145
-226,Gerald R. Ford,2012.0,,,,281,Gerald,106,Ford,3073858
-227,Gerald R. Ford,2013.0,,,,273,Gerald,132,Ford,3066443
-228,Gerald R. Ford,2014.0,,,,228,Gerald,189,Ford,3113611
-229,Gerald R. Ford,2015.0,,,,0,Gerald,0,Ford,0
-230,Richard Nixon,1968.0,,,,33107,Richard,0,Nixon,3160072
-231,Richard Nixon,1975.0,,,,17761,Richard,0,Nixon,2744651
-232,Richard Nixon,1976.0,,,,16838,Richard,0,Nixon,2754069
-233,Richard Nixon,1977.0,,,,17520,Richard,0,Nixon,2882671
-234,Richard Nixon,1978.0,,,,16774,Richard,0,Nixon,2877289
-235,Richard Nixon,1979.0,,,,16791,Richard,0,Nixon,3018685
-236,Richard Nixon,1980.0,,,,16719,Richard,0,Nixon,3130096
-237,Richard Nixon,1981.0,,,,16921,Richard,0,Nixon,3145554
-238,Richard Nixon,1982.0,,,,16773,Richard,0,Nixon,3192364
-239,Richard Nixon,1983.0,,,,15962,Richard,0,Nixon,3153008
-240,Richard Nixon,1984.0,,,,15645,Richard,0,Nixon,3176106
-241,Richard Nixon,1985.0,,,,15402,Richard,0,Nixon,3245530
-242,Richard Nixon,1986.0,,,,15076,Richard,0,Nixon,3227500
-243,Richard Nixon,1987.0,,,,14445,Richard,0,Nixon,3265895
-244,Richard Nixon,1988.0,,,,14203,Richard,5,Nixon,3340519
-245,Richard Nixon,1989.0,,,,14162,Richard,0,Nixon,3475179
-246,Richard Nixon,1990.0,,,,13592,Richard,0,Nixon,3566331
-247,Richard Nixon,1991.0,,,,12569,Richard,6,Nixon,3502689
-248,Richard Nixon,1992.0,,,,11340,Richard,0,Nixon,3442170
-249,Richard Nixon,1993.0,,,,10236,Richard,0,Nixon,3363860
-250,Richard Nixon,1994.0,,,,9526,Richard,6,Nixon,3307185
-251,Richard Nixon,1995.0,,,,8789,Richard,0,Nixon,3249146
-252,Richard Nixon,1996.0,,,,8188,Richard,12,Nixon,3224919
-253,Richard Nixon,1997.0,,,,7247,Richard,6,Nixon,3193018
-254,Richard Nixon,1998.0,,,,6952,Richard,0,Nixon,3229407
-255,Richard Nixon,1999.0,,,,6499,Richard,0,Nixon,3233110
-256,Richard Nixon,2000.0,,,,6351,Richard,5,Nixon,3296850
-257,Richard Nixon,2001.0,,,,5768,Richard,5,Nixon,3250984
-258,Richard Nixon,2002.0,,,,5314,Richard,0,Nixon,3238053
-259,Richard Nixon,2003.0,,,,5049,Richard,7,Nixon,3288978
-260,Richard Nixon,2004.0,,,,4858,Richard,10,Nixon,3293984
-261,Richard Nixon,2005.0,,,,4662,Richard,31,Nixon,3305315
-262,Richard Nixon,2006.0,,,,4463,Richard,30,Nixon,3387737
-263,Richard Nixon,2007.0,,,,4409,Richard,45,Nixon,3412417
-264,Richard Nixon,2008.0,,,,4045,Richard,70,Nixon,3340318
-265,Richard Nixon,2009.0,,,,3601,Richard,103,Nixon,3232116
-266,Richard Nixon,2010.0,,,,3222,Richard,137,Nixon,3116548
-267,Richard Nixon,2011.0,,,,3150,Richard,163,Nixon,3079145
-268,Richard Nixon,2012.0,,,,3005,Richard,317,Nixon,3073858
-269,Richard Nixon,2013.0,,,,2775,Richard,374,Nixon,3066443
-270,Richard Nixon,2014.0,,,,2854,Richard,426,Nixon,3113611
-271,Richard Nixon,2015.0,,,,0,Richard,0,Nixon,0
-272,Lyndon B. Johnson,1962.0,,,,82,Lyndon,11,Johnson,3826131
-273,Lyndon B. Johnson,1970.0,,,,23,Lyndon,0,Johnson,3359931
-274,Lyndon B. Johnson,1971.0,,,,0,Lyndon,0,Johnson,3177813
-275,Lyndon B. Johnson,1972.0,,,,5,Lyndon,5,Johnson,2890397
-276,Lyndon B. Johnson,1973.0,,,,23,Lyndon,0,Johnson,2759517
-277,Lyndon B. Johnson,1974.0,,,,13,Lyndon,0,Johnson,2774144
-278,Lyndon B. Johnson,1975.0,,,,6,Lyndon,5,Johnson,2744651
-279,Lyndon B. Johnson,1976.0,,,,22,Lyndon,6,Johnson,2754069
-280,Lyndon B. Johnson,1977.0,,,,23,Lyndon,0,Johnson,2882671
-281,Lyndon B. Johnson,1978.0,,,,0,Lyndon,5,Johnson,2877289
-282,Lyndon B. Johnson,1979.0,,,,5,Lyndon,5,Johnson,3018685
-283,Lyndon B. Johnson,1980.0,,,,18,Lyndon,21,Johnson,3130096
-284,Lyndon B. Johnson,1981.0,,,,23,Lyndon,30,Johnson,3145554
-285,Lyndon B. Johnson,1982.0,,,,29,Lyndon,48,Johnson,3192364
-286,Lyndon B. Johnson,1983.0,,,,40,Lyndon,54,Johnson,3153008
-287,Lyndon B. Johnson,1984.0,,,,15,Lyndon,38,Johnson,3176106
-288,Lyndon B. Johnson,1985.0,,,,26,Lyndon,51,Johnson,3245530
-289,Lyndon B. Johnson,1986.0,,,,51,Lyndon,60,Johnson,3227500
-290,Lyndon B. Johnson,1987.0,,,,47,Lyndon,67,Johnson,3265895
-291,Lyndon B. Johnson,1988.0,,,,37,Lyndon,52,Johnson,3340519
-292,Lyndon B. Johnson,1989.0,,,,69,Lyndon,63,Johnson,3475179
-293,Lyndon B. Johnson,1990.0,,,,40,Lyndon,54,Johnson,3566331
-294,Lyndon B. Johnson,1991.0,,,,45,Lyndon,39,Johnson,3502689
-295,Lyndon B. Johnson,1992.0,,,,36,Lyndon,49,Johnson,3442170
-296,Lyndon B. Johnson,1993.0,,,,33,Lyndon,52,Johnson,3363860
-297,Lyndon B. Johnson,1994.0,,,,27,Lyndon,53,Johnson,3307185
-298,Lyndon B. Johnson,1995.0,,,,20,Lyndon,53,Johnson,3249146
-299,Lyndon B. Johnson,1996.0,,,,39,Lyndon,63,Johnson,3224919
-300,Lyndon B. Johnson,1997.0,,,,41,Lyndon,51,Johnson,3193018
-301,Lyndon B. Johnson,1998.0,,,,53,Lyndon,31,Johnson,3229407
-302,Lyndon B. Johnson,1999.0,,,,43,Lyndon,45,Johnson,3233110
-303,Lyndon B. Johnson,2000.0,,,,29,Lyndon,75,Johnson,3296850
-304,Lyndon B. Johnson,2001.0,,,,9,Lyndon,35,Johnson,3250984
-305,Lyndon B. Johnson,2002.0,,,,28,Lyndon,47,Johnson,3238053
-306,Lyndon B. Johnson,2003.0,,,,51,Lyndon,56,Johnson,3288978
-307,Lyndon B. Johnson,2004.0,,,,42,Lyndon,43,Johnson,3293984
-308,Lyndon B. Johnson,2005.0,,,,36,Lyndon,33,Johnson,3305315
-309,Lyndon B. Johnson,2006.0,,,,45,Lyndon,49,Johnson,3387737
-310,Lyndon B. Johnson,2007.0,,,,46,Lyndon,56,Johnson,3412417
-311,Lyndon B. Johnson,2008.0,,,,40,Lyndon,23,Johnson,3340318
-312,Lyndon B. Johnson,2009.0,,,,50,Lyndon,56,Johnson,3232116
-313,Lyndon B. Johnson,2010.0,,,,47,Lyndon,26,Johnson,3116548
-314,Lyndon B. Johnson,2011.0,,,,58,Lyndon,32,Johnson,3079145
-315,Lyndon B. Johnson,2012.0,,,,70,Lyndon,33,Johnson,3073858
-316,Lyndon B. Johnson,2013.0,,,,95,Lyndon,27,Johnson,3066443
-317,Lyndon B. Johnson,2014.0,,,,82,Lyndon,27,Johnson,3113611
-318,Lyndon B. Johnson,2015.0,,,,0,Lyndon,0,Johnson,0
-319,John F. Kennedy,1960.0,,,,76302,John,85,Kennedy,3948284
-320,John F. Kennedy,1964.0,,,,82763,John,191,Kennedy,3674865
-321,John F. Kennedy,1965.0,,,,71769,John,93,Kennedy,3420034
-322,John F. Kennedy,1966.0,,,,65281,John,42,Kennedy,3268132
-323,John F. Kennedy,1967.0,,,,61869,John,21,Kennedy,3184540
-324,John F. Kennedy,1968.0,,,,61167,John,14,Kennedy,3160072
-325,John F. Kennedy,1969.0,,,,59039,John,9,Kennedy,3245564
-326,John F. Kennedy,1970.0,,,,58794,John,16,Kennedy,3359931
-327,John F. Kennedy,1971.0,,,,51751,John,7,Kennedy,3177813
-328,John F. Kennedy,1972.0,,,,43357,John,0,Kennedy,2890397
-329,John F. Kennedy,1973.0,,,,39352,John,0,Kennedy,2759517
-330,John F. Kennedy,1974.0,,,,37851,John,0,Kennedy,2774144
-331,John F. Kennedy,1975.0,,,,35287,John,0,Kennedy,2744651
-332,John F. Kennedy,1976.0,,,,34144,John,0,Kennedy,2754069
-333,John F. Kennedy,1977.0,,,,34379,John,0,Kennedy,2882671
-334,John F. Kennedy,1978.0,,,,34181,John,0,Kennedy,2877289
-335,John F. Kennedy,1979.0,,,,35604,John,5,Kennedy,3018685
-336,John F. Kennedy,1980.0,,,,35449,John,0,Kennedy,3130096
-337,John F. Kennedy,1981.0,,,,35012,John,0,Kennedy,3145554
-338,John F. Kennedy,1982.0,,,,34865,John,0,Kennedy,3192364
-339,John F. Kennedy,1983.0,,,,33348,John,0,Kennedy,3153008
-340,John F. Kennedy,1984.0,,,,32783,John,27,Kennedy,3176106
-341,John F. Kennedy,1985.0,,,,31668,John,16,Kennedy,3245530
-342,John F. Kennedy,1986.0,,,,30341,John,15,Kennedy,3227500
-343,John F. Kennedy,1987.0,,,,29696,John,16,Kennedy,3265895
-344,John F. Kennedy,1988.0,,,,29513,John,13,Kennedy,3340519
-345,John F. Kennedy,1989.0,,,,29923,John,39,Kennedy,3475179
-346,John F. Kennedy,1990.0,,,,29107,John,48,Kennedy,3566331
-347,John F. Kennedy,1991.0,,,,27825,John,28,Kennedy,3502689
-348,John F. Kennedy,1992.0,,,,26273,John,55,Kennedy,3442170
-349,John F. Kennedy,1993.0,,,,25014,John,105,Kennedy,3363860
-350,John F. Kennedy,1994.0,,,,24189,John,501,Kennedy,3307185
-351,John F. Kennedy,1995.0,,,,23244,John,1310,Kennedy,3249146
-352,John F. Kennedy,1996.0,,,,22175,John,1495,Kennedy,3224919
-353,John F. Kennedy,1997.0,,,,21374,John,1705,Kennedy,3193018
-354,John F. Kennedy,1998.0,,,,20612,John,1728,Kennedy,3229407
-355,John F. Kennedy,1999.0,,,,20338,John,1971,Kennedy,3233110
-356,John F. Kennedy,2000.0,,,,20086,John,2487,Kennedy,3296850
-357,John F. Kennedy,2001.0,,,,18878,John,2532,Kennedy,3250984
-358,John F. Kennedy,2002.0,,,,17437,John,2634,Kennedy,3238053
-359,John F. Kennedy,2003.0,,,,17221,John,2895,Kennedy,3288978
-360,John F. Kennedy,2004.0,,,,16486,John,3000,Kennedy,3293984
-361,John F. Kennedy,2005.0,,,,15773,John,2917,Kennedy,3305315
-362,John F. Kennedy,2006.0,,,,15160,John,3014,Kennedy,3387737
-363,John F. Kennedy,2007.0,,,,14423,John,3127,Kennedy,3412417
-364,John F. Kennedy,2008.0,,,,13307,John,3041,Kennedy,3340318
-365,John F. Kennedy,2009.0,,,,12100,John,2948,Kennedy,3232116
-366,John F. Kennedy,2010.0,,,,11539,John,2915,Kennedy,3116548
-367,John F. Kennedy,2011.0,,,,11020,John,3309,Kennedy,3079145
-368,John F. Kennedy,2012.0,,,,10593,John,3481,Kennedy,3073858
-369,John F. Kennedy,2013.0,,,,10670,John,4044,Kennedy,3066443
-370,John F. Kennedy,2014.0,,,,10600,John,4558,Kennedy,3113611
-371,John F. Kennedy,2015.0,,,,0,John,0,Kennedy,0
-372,Dwight D. Eisenhower,1952.0,,,,2400,Dwight,0,Eisenhower,3617370
-373,Dwight D. Eisenhower,1961.0,,,,1650,Dwight,0,Eisenhower,3929909
-374,Dwight D. Eisenhower,1962.0,,,,1496,Dwight,0,Eisenhower,3826131
-375,Dwight D. Eisenhower,1963.0,,,,1437,Dwight,0,Eisenhower,3747914
-376,Dwight D. Eisenhower,1964.0,,,,1237,Dwight,0,Eisenhower,3674865
-377,Dwight D. Eisenhower,1965.0,,,,1205,Dwight,0,Eisenhower,3420034
-378,Dwight D. Eisenhower,1966.0,,,,1028,Dwight,0,Eisenhower,3268132
-379,Dwight D. Eisenhower,1967.0,,,,953,Dwight,0,Eisenhower,3184540
-380,Dwight D. Eisenhower,1968.0,,,,916,Dwight,0,Eisenhower,3160072
-381,Dwight D. Eisenhower,1969.0,,,,1167,Dwight,0,Eisenhower,3245564
-382,Dwight D. Eisenhower,1970.0,,,,1003,Dwight,0,Eisenhower,3359931
-383,Dwight D. Eisenhower,1971.0,,,,876,Dwight,0,Eisenhower,3177813
-384,Dwight D. Eisenhower,1972.0,,,,730,Dwight,0,Eisenhower,2890397
-385,Dwight D. Eisenhower,1973.0,,,,668,Dwight,0,Eisenhower,2759517
-386,Dwight D. Eisenhower,1974.0,,,,663,Dwight,0,Eisenhower,2774144
-387,Dwight D. Eisenhower,1975.0,,,,638,Dwight,0,Eisenhower,2744651
-388,Dwight D. Eisenhower,1976.0,,,,572,Dwight,0,Eisenhower,2754069
-389,Dwight D. Eisenhower,1977.0,,,,533,Dwight,0,Eisenhower,2882671
-390,Dwight D. Eisenhower,1978.0,,,,457,Dwight,0,Eisenhower,2877289
-391,Dwight D. Eisenhower,1979.0,,,,495,Dwight,0,Eisenhower,3018685
-392,Dwight D. Eisenhower,1980.0,,,,478,Dwight,0,Eisenhower,3130096
-393,Dwight D. Eisenhower,1981.0,,,,465,Dwight,0,Eisenhower,3145554
-394,Dwight D. Eisenhower,1982.0,,,,441,Dwight,0,Eisenhower,3192364
-395,Dwight D. Eisenhower,1983.0,,,,494,Dwight,0,Eisenhower,3153008
-396,Dwight D. Eisenhower,1984.0,,,,527,Dwight,0,Eisenhower,3176106
-397,Dwight D. Eisenhower,1985.0,,,,451,Dwight,0,Eisenhower,3245530
-398,Dwight D. Eisenhower,1986.0,,,,470,Dwight,0,Eisenhower,3227500
-399,Dwight D. Eisenhower,1987.0,,,,502,Dwight,0,Eisenhower,3265895
-400,Dwight D. Eisenhower,1988.0,,,,451,Dwight,0,Eisenhower,3340519
-401,Dwight D. Eisenhower,1989.0,,,,439,Dwight,0,Eisenhower,3475179
-402,Dwight D. Eisenhower,1990.0,,,,456,Dwight,0,Eisenhower,3566331
-403,Dwight D. Eisenhower,1991.0,,,,429,Dwight,0,Eisenhower,3502689
-404,Dwight D. Eisenhower,1992.0,,,,371,Dwight,0,Eisenhower,3442170
-405,Dwight D. Eisenhower,1993.0,,,,332,Dwight,0,Eisenhower,3363860
-406,Dwight D. Eisenhower,1994.0,,,,312,Dwight,0,Eisenhower,3307185
-407,Dwight D. Eisenhower,1995.0,,,,253,Dwight,0,Eisenhower,3249146
-408,Dwight D. Eisenhower,1996.0,,,,206,Dwight,0,Eisenhower,3224919
-409,Dwight D. Eisenhower,1997.0,,,,199,Dwight,0,Eisenhower,3193018
-410,Dwight D. Eisenhower,1998.0,,,,207,Dwight,0,Eisenhower,3229407
-411,Dwight D. Eisenhower,1999.0,,,,188,Dwight,0,Eisenhower,3233110
-412,Dwight D. Eisenhower,2000.0,,,,183,Dwight,0,Eisenhower,3296850
-413,Dwight D. Eisenhower,2001.0,,,,143,Dwight,0,Eisenhower,3250984
-414,Dwight D. Eisenhower,2002.0,,,,97,Dwight,0,Eisenhower,3238053
-415,Dwight D. Eisenhower,2003.0,,,,129,Dwight,0,Eisenhower,3288978
-416,Dwight D. Eisenhower,2004.0,,,,144,Dwight,0,Eisenhower,3293984
-417,Dwight D. Eisenhower,2005.0,,,,108,Dwight,0,Eisenhower,3305315
-418,Dwight D. Eisenhower,2006.0,,,,111,Dwight,0,Eisenhower,3387737
-419,Dwight D. Eisenhower,2007.0,,,,123,Dwight,0,Eisenhower,3412417
-420,Dwight D. Eisenhower,2008.0,,,,91,Dwight,0,Eisenhower,3340318
-421,Dwight D. Eisenhower,2009.0,,,,110,Dwight,0,Eisenhower,3232116
-422,Dwight D. Eisenhower,2010.0,,,,90,Dwight,0,Eisenhower,3116548
-423,Dwight D. Eisenhower,2011.0,,,,80,Dwight,0,Eisenhower,3079145
-424,Dwight D. Eisenhower,2012.0,,,,80,Dwight,0,Eisenhower,3073858
-425,Dwight D. Eisenhower,2013.0,,,,87,Dwight,0,Eisenhower,3066443
-426,Dwight D. Eisenhower,2014.0,,,,75,Dwight,0,Eisenhower,3113611
-427,Dwight D. Eisenhower,2015.0,,,,0,Dwight,0,Eisenhower,0
-428,Harry S. Truman,1944.0,,,,5478,Harry,147,Truman,2537120
-429,Harry S. Truman,1953.0,,,,4567,Harry,21,Truman,3665807
-430,Harry S. Truman,1954.0,,,,4354,Harry,29,Truman,3790625
-431,Harry S. Truman,1955.0,,,,4125,Harry,17,Truman,3821699
-432,Harry S. Truman,1956.0,,,,3921,Harry,9,Truman,3926008
-433,Harry S. Truman,1957.0,,,,3790,Harry,8,Truman,4002231
-434,Harry S. Truman,1958.0,,,,3584,Harry,13,Truman,3933693
-435,Harry S. Truman,1959.0,,,,3269,Harry,8,Truman,3955363
-436,Harry S. Truman,1960.0,,,,3006,Harry,29,Truman,3948284
-437,Harry S. Truman,1961.0,,,,2731,Harry,7,Truman,3929909
-438,Harry S. Truman,1962.0,,,,2602,Harry,12,Truman,3826131
-439,Harry S. Truman,1963.0,,,,2481,Harry,12,Truman,3747914
-440,Harry S. Truman,1964.0,,,,2386,Harry,16,Truman,3674865
-441,Harry S. Truman,1965.0,,,,2093,Harry,23,Truman,3420034
-442,Harry S. Truman,1966.0,,,,1975,Harry,0,Truman,3268132
-443,Harry S. Truman,1967.0,,,,1864,Harry,14,Truman,3184540
-444,Harry S. Truman,1968.0,,,,1757,Harry,20,Truman,3160072
-445,Harry S. Truman,1969.0,,,,1608,Harry,18,Truman,3245564
-446,Harry S. Truman,1970.0,,,,1681,Harry,9,Truman,3359931
-447,Harry S. Truman,1971.0,,,,1508,Harry,22,Truman,3177813
-448,Harry S. Truman,1972.0,,,,1302,Harry,12,Truman,2890397
-449,Harry S. Truman,1973.0,,,,1177,Harry,7,Truman,2759517
-450,Harry S. Truman,1974.0,,,,1045,Harry,12,Truman,2774144
-451,Harry S. Truman,1975.0,,,,1035,Harry,11,Truman,2744651
-452,Harry S. Truman,1976.0,,,,930,Harry,11,Truman,2754069
-453,Harry S. Truman,1977.0,,,,924,Harry,12,Truman,2882671
-454,Harry S. Truman,1978.0,,,,875,Harry,5,Truman,2877289
-455,Harry S. Truman,1979.0,,,,880,Harry,5,Truman,3018685
-456,Harry S. Truman,1980.0,,,,828,Harry,7,Truman,3130096
-457,Harry S. Truman,1981.0,,,,804,Harry,0,Truman,3145554
-458,Harry S. Truman,1982.0,,,,751,Harry,0,Truman,3192364
-459,Harry S. Truman,1983.0,,,,713,Harry,5,Truman,3153008
-460,Harry S. Truman,1984.0,,,,686,Harry,5,Truman,3176106
-461,Harry S. Truman,1985.0,,,,746,Harry,14,Truman,3245530
-462,Harry S. Truman,1986.0,,,,633,Harry,6,Truman,3227500
-463,Harry S. Truman,1987.0,,,,666,Harry,12,Truman,3265895
-464,Harry S. Truman,1988.0,,,,633,Harry,0,Truman,3340519
-465,Harry S. Truman,1989.0,,,,708,Harry,12,Truman,3475179
-466,Harry S. Truman,1990.0,,,,583,Harry,10,Truman,3566331
-467,Harry S. Truman,1991.0,,,,596,Harry,20,Truman,3502689
-468,Harry S. Truman,1992.0,,,,604,Harry,8,Truman,3442170
-469,Harry S. Truman,1993.0,,,,526,Harry,20,Truman,3363860
-470,Harry S. Truman,1994.0,,,,500,Harry,33,Truman,3307185
-471,Harry S. Truman,1995.0,,,,459,Harry,22,Truman,3249146
-472,Harry S. Truman,1996.0,,,,418,Harry,58,Truman,3224919
-473,Harry S. Truman,1997.0,,,,393,Harry,33,Truman,3193018
-474,Harry S. Truman,1998.0,,,,445,Harry,57,Truman,3229407
-475,Harry S. Truman,1999.0,,,,410,Harry,61,Truman,3233110
-476,Harry S. Truman,2000.0,,,,377,Harry,86,Truman,3296850
-477,Harry S. Truman,2001.0,,,,394,Harry,60,Truman,3250984
-478,Harry S. Truman,2002.0,,,,392,Harry,79,Truman,3238053
-479,Harry S. Truman,2003.0,,,,403,Harry,94,Truman,3288978
-480,Harry S. Truman,2004.0,,,,385,Harry,99,Truman,3293984
-481,Harry S. Truman,2005.0,,,,423,Harry,112,Truman,3305315
-482,Harry S. Truman,2006.0,,,,376,Harry,150,Truman,3387737
-483,Harry S. Truman,2007.0,,,,395,Harry,148,Truman,3412417
-484,Harry S. Truman,2008.0,,,,333,Harry,111,Truman,3340318
-485,Harry S. Truman,2009.0,,,,332,Harry,124,Truman,3232116
-486,Harry S. Truman,2010.0,,,,306,Harry,147,Truman,3116548
-487,Harry S. Truman,2011.0,,,,280,Harry,121,Truman,3079145
-488,Harry S. Truman,2012.0,,,,269,Harry,165,Truman,3073858
-489,Harry S. Truman,2013.0,,,,295,Harry,158,Truman,3066443
-490,Harry S. Truman,2014.0,,,,286,Harry,158,Truman,3113611
-491,Harry S. Truman,2015.0,,,,0,Harry,0,Truman,0
-492,Franklin D. Roosevelt,1932.0,,,,2756,Franklin,816,Roosevelt,1964421
-493,Franklin D. Roosevelt,1933.0,,,,5355,Franklin,1187,Roosevelt,1857674
-494,Franklin D. Roosevelt,1934.0,,,,4144,Franklin,985,Roosevelt,1933466
-495,Franklin D. Roosevelt,1935.0,,,,2601,Franklin,736,Roosevelt,1946981
-496,Franklin D. Roosevelt,1936.0,,,,2933,Franklin,716,Roosevelt,1936249
-497,Franklin D. Roosevelt,1937.0,,,,2509,Franklin,652,Roosevelt,1986759
-498,Franklin D. Roosevelt,1938.0,,,,1994,Franklin,631,Roosevelt,2068294
-499,Franklin D. Roosevelt,1939.0,,,,1829,Franklin,567,Roosevelt,2059878
-500,Franklin D. Roosevelt,1940.0,,,,2375,Franklin,608,Roosevelt,2157632
-501,Franklin D. Roosevelt,1944.0,,,,1798,Franklin,541,Roosevelt,2537120
-502,Franklin D. Roosevelt,1945.0,,,,1874,Franklin,539,Roosevelt,2501963
-503,Franklin D. Roosevelt,1946.0,,,,1694,Franklin,495,Roosevelt,3032350
-504,Franklin D. Roosevelt,1947.0,,,,1756,Franklin,528,Roosevelt,3427532
-505,Franklin D. Roosevelt,1948.0,,,,1536,Franklin,572,Roosevelt,3280438
-506,Franklin D. Roosevelt,1949.0,,,,1599,Franklin,589,Roosevelt,3312353
-507,Franklin D. Roosevelt,1950.0,,,,1615,Franklin,561,Roosevelt,3330666
-508,Franklin D. Roosevelt,1951.0,,,,1689,Franklin,539,Roosevelt,3504403
-509,Franklin D. Roosevelt,1952.0,,,,1692,Franklin,571,Roosevelt,3617370
-510,Franklin D. Roosevelt,1953.0,,,,1750,Franklin,565,Roosevelt,3665807
-511,Franklin D. Roosevelt,1954.0,,,,1811,Franklin,582,Roosevelt,3790625
-512,Franklin D. Roosevelt,1955.0,,,,1748,Franklin,571,Roosevelt,3821699
-513,Franklin D. Roosevelt,1956.0,,,,1764,Franklin,589,Roosevelt,3926008
-514,Franklin D. Roosevelt,1957.0,,,,1677,Franklin,562,Roosevelt,4002231
-515,Franklin D. Roosevelt,1958.0,,,,1563,Franklin,469,Roosevelt,3933693
-516,Franklin D. Roosevelt,1959.0,,,,1538,Franklin,451,Roosevelt,3955363
-517,Franklin D. Roosevelt,1960.0,,,,1510,Franklin,452,Roosevelt,3948284
-518,Franklin D. Roosevelt,1961.0,,,,1505,Franklin,403,Roosevelt,3929909
-519,Franklin D. Roosevelt,1962.0,,,,1506,Franklin,402,Roosevelt,3826131
-520,Franklin D. Roosevelt,1963.0,,,,1511,Franklin,427,Roosevelt,3747914
-521,Franklin D. Roosevelt,1964.0,,,,1478,Franklin,372,Roosevelt,3674865
-522,Franklin D. Roosevelt,1965.0,,,,1350,Franklin,337,Roosevelt,3420034
-523,Franklin D. Roosevelt,1966.0,,,,1280,Franklin,286,Roosevelt,3268132
-524,Franklin D. Roosevelt,1967.0,,,,1172,Franklin,271,Roosevelt,3184540
-525,Franklin D. Roosevelt,1968.0,,,,1151,Franklin,275,Roosevelt,3160072
-526,Franklin D. Roosevelt,1969.0,,,,1207,Franklin,238,Roosevelt,3245564
-527,Franklin D. Roosevelt,1970.0,,,,1193,Franklin,262,Roosevelt,3359931
-528,Franklin D. Roosevelt,1971.0,,,,1110,Franklin,238,Roosevelt,3177813
-529,Franklin D. Roosevelt,1972.0,,,,899,Franklin,197,Roosevelt,2890397
-530,Franklin D. Roosevelt,1973.0,,,,915,Franklin,175,Roosevelt,2759517
-531,Franklin D. Roosevelt,1974.0,,,,876,Franklin,193,Roosevelt,2774144
-532,Franklin D. Roosevelt,1975.0,,,,832,Franklin,167,Roosevelt,2744651
-533,Franklin D. Roosevelt,1976.0,,,,768,Franklin,190,Roosevelt,2754069
-534,Franklin D. Roosevelt,1977.0,,,,845,Franklin,174,Roosevelt,2882671
-535,Franklin D. Roosevelt,1978.0,,,,812,Franklin,125,Roosevelt,2877289
-536,Franklin D. Roosevelt,1979.0,,,,834,Franklin,159,Roosevelt,3018685
-537,Franklin D. Roosevelt,1980.0,,,,854,Franklin,178,Roosevelt,3130096
-538,Franklin D. Roosevelt,1981.0,,,,772,Franklin,131,Roosevelt,3145554
-539,Franklin D. Roosevelt,1982.0,,,,827,Franklin,133,Roosevelt,3192364
-540,Franklin D. Roosevelt,1983.0,,,,697,Franklin,120,Roosevelt,3153008
-541,Franklin D. Roosevelt,1984.0,,,,760,Franklin,129,Roosevelt,3176106
-542,Franklin D. Roosevelt,1985.0,,,,786,Franklin,116,Roosevelt,3245530
-543,Franklin D. Roosevelt,1986.0,,,,752,Franklin,107,Roosevelt,3227500
-544,Franklin D. Roosevelt,1987.0,,,,777,Franklin,107,Roosevelt,3265895
-545,Franklin D. Roosevelt,1988.0,,,,808,Franklin,116,Roosevelt,3340519
-546,Franklin D. Roosevelt,1989.0,,,,863,Franklin,121,Roosevelt,3475179
-547,Franklin D. Roosevelt,1990.0,,,,817,Franklin,119,Roosevelt,3566331
-548,Franklin D. Roosevelt,1991.0,,,,826,Franklin,105,Roosevelt,3502689
-549,Franklin D. Roosevelt,1992.0,,,,819,Franklin,99,Roosevelt,3442170
-550,Franklin D. Roosevelt,1993.0,,,,677,Franklin,93,Roosevelt,3363860
-551,Franklin D. Roosevelt,1994.0,,,,665,Franklin,68,Roosevelt,3307185
-552,Franklin D. Roosevelt,1995.0,,,,620,Franklin,63,Roosevelt,3249146
-553,Franklin D. Roosevelt,1996.0,,,,664,Franklin,39,Roosevelt,3224919
-554,Franklin D. Roosevelt,1997.0,,,,549,Franklin,56,Roosevelt,3193018
-555,Franklin D. Roosevelt,1998.0,,,,600,Franklin,13,Roosevelt,3229407
-556,Franklin D. Roosevelt,1999.0,,,,535,Franklin,46,Roosevelt,3233110
-557,Franklin D. Roosevelt,2000.0,,,,500,Franklin,18,Roosevelt,3296850
-558,Franklin D. Roosevelt,2001.0,,,,482,Franklin,28,Roosevelt,3250984
-559,Franklin D. Roosevelt,2002.0,,,,476,Franklin,26,Roosevelt,3238053
-560,Franklin D. Roosevelt,2003.0,,,,502,Franklin,29,Roosevelt,3288978
-561,Franklin D. Roosevelt,2004.0,,,,464,Franklin,10,Roosevelt,3293984
-562,Franklin D. Roosevelt,2005.0,,,,527,Franklin,14,Roosevelt,3305315
-563,Franklin D. Roosevelt,2006.0,,,,581,Franklin,29,Roosevelt,3387737
-564,Franklin D. Roosevelt,2007.0,,,,540,Franklin,14,Roosevelt,3412417
-565,Franklin D. Roosevelt,2008.0,,,,545,Franklin,21,Roosevelt,3340318
-566,Franklin D. Roosevelt,2009.0,,,,476,Franklin,13,Roosevelt,3232116
-567,Franklin D. Roosevelt,2010.0,,,,471,Franklin,26,Roosevelt,3116548
-568,Franklin D. Roosevelt,2011.0,,,,477,Franklin,15,Roosevelt,3079145
-569,Franklin D. Roosevelt,2012.0,,,,449,Franklin,8,Roosevelt,3073858
-570,Franklin D. Roosevelt,2013.0,,,,508,Franklin,7,Roosevelt,3066443
-571,Franklin D. Roosevelt,2014.0,,,,618,Franklin,11,Roosevelt,3113611
-572,Franklin D. Roosevelt,2015.0,,,,0,Franklin,0,Roosevelt,0
->>>>>>> Stashed changes
+80,Barack Obama,1929.0,,,,0,Barack,0,Obama,2040623
+81,Barack Obama,1930.0,,,,0,Barack,0,Obama,2070844
+82,Barack Obama,1931.0,,,,0,Barack,0,Obama,1958859
+83,Barack Obama,1932.0,,,,0,Barack,0,Obama,1964421
+84,Barack Obama,1933.0,,,,0,Barack,0,Obama,1857674
+85,Barack Obama,1934.0,,,,0,Barack,0,Obama,1933466
+86,Barack Obama,1935.0,,,,0,Barack,0,Obama,1946981
+87,Barack Obama,1936.0,,,,0,Barack,0,Obama,1936249
+88,Barack Obama,1937.0,,,,0,Barack,0,Obama,1986759
+89,Barack Obama,1938.0,,,,0,Barack,0,Obama,2068294
+90,Barack Obama,1939.0,,,,0,Barack,0,Obama,2059878
+91,Barack Obama,1940.0,,,,0,Barack,0,Obama,2157632
+92,Barack Obama,1941.0,,,,0,Barack,0,Obama,2288235
+93,Barack Obama,1942.0,,,,0,Barack,0,Obama,2576573
+94,Barack Obama,1943.0,,,,0,Barack,0,Obama,2664927
+95,Barack Obama,1944.0,,,,0,Barack,0,Obama,2537120
+96,Barack Obama,1945.0,,,,0,Barack,0,Obama,2501963
+97,Barack Obama,1946.0,,,,0,Barack,0,Obama,3032350
+98,Barack Obama,1947.0,,,,0,Barack,0,Obama,3427532
+99,Barack Obama,1948.0,,,,0,Barack,0,Obama,3280438
+100,Barack Obama,1949.0,,,,0,Barack,0,Obama,3312353
+101,Barack Obama,1950.0,,,,0,Barack,0,Obama,3330666
+102,Barack Obama,1951.0,,,,0,Barack,0,Obama,3504403
+103,Barack Obama,1952.0,,,,0,Barack,0,Obama,3617370
+104,Barack Obama,1953.0,,,,0,Barack,0,Obama,3665807
+105,Barack Obama,1954.0,,,,0,Barack,0,Obama,3790625
+106,Barack Obama,1955.0,,,,0,Barack,0,Obama,3821699
+107,Barack Obama,1956.0,,,,0,Barack,0,Obama,3926008
+108,Barack Obama,1957.0,,,,0,Barack,0,Obama,4002231
+109,Barack Obama,1958.0,,,,0,Barack,0,Obama,3933693
+110,Barack Obama,1959.0,,,,0,Barack,0,Obama,3955363
+111,Barack Obama,1960.0,,,,0,Barack,0,Obama,3948284
+112,Barack Obama,1961.0,,,,0,Barack,0,Obama,3929909
+113,Barack Obama,1962.0,,,,0,Barack,0,Obama,3826131
+114,Barack Obama,1963.0,,,,0,Barack,0,Obama,3747914
+115,Barack Obama,1964.0,,,,0,Barack,0,Obama,3674865
+116,Barack Obama,1965.0,,,,0,Barack,0,Obama,3420034
+117,Barack Obama,1966.0,,,,0,Barack,0,Obama,3268132
+118,Barack Obama,1967.0,,,,0,Barack,0,Obama,3184540
+119,Barack Obama,1968.0,,,,0,Barack,0,Obama,3160072
+120,Barack Obama,1969.0,,,,0,Barack,0,Obama,3245564
+121,Barack Obama,1970.0,,,,0,Barack,0,Obama,3359931
+122,Barack Obama,1971.0,,,,0,Barack,0,Obama,3177813
+123,Barack Obama,1972.0,,,,0,Barack,0,Obama,2890397
+124,Barack Obama,1973.0,,,,0,Barack,0,Obama,2759517
+125,Barack Obama,1974.0,,,,0,Barack,0,Obama,2774144
+126,Barack Obama,1975.0,,,,0,Barack,0,Obama,2744651
+127,Barack Obama,1976.0,,,,0,Barack,0,Obama,2754069
+128,Barack Obama,1977.0,,,,0,Barack,0,Obama,2882671
+129,Barack Obama,1978.0,,,,0,Barack,0,Obama,2877289
+130,Barack Obama,1979.0,,,,0,Barack,0,Obama,3018685
+131,Barack Obama,1980.0,,,,0,Barack,0,Obama,3130096
+132,Barack Obama,1981.0,,,,0,Barack,0,Obama,3145554
+133,Barack Obama,1982.0,,,,0,Barack,0,Obama,3192364
+134,Barack Obama,1983.0,,,,0,Barack,0,Obama,3153008
+135,Barack Obama,1984.0,,,,0,Barack,0,Obama,3176106
+136,Barack Obama,1985.0,,,,0,Barack,0,Obama,3245530
+137,Barack Obama,1986.0,,,,0,Barack,0,Obama,3227500
+138,Barack Obama,1987.0,,,,0,Barack,0,Obama,3265895
+139,Barack Obama,1988.0,,,,0,Barack,0,Obama,3340519
+140,Barack Obama,1989.0,,,,0,Barack,0,Obama,3475179
+141,Barack Obama,1990.0,,,,0,Barack,0,Obama,3566331
+142,Barack Obama,1991.0,,,,0,Barack,0,Obama,3502689
+143,Barack Obama,1992.0,,,,0,Barack,0,Obama,3442170
+144,Barack Obama,1993.0,,,,0,Barack,0,Obama,3363860
+145,Barack Obama,1994.0,,,,0,Barack,0,Obama,3307185
+146,Barack Obama,1995.0,,,,0,Barack,0,Obama,3249146
+147,Barack Obama,1996.0,,,,0,Barack,0,Obama,3224919
+148,Barack Obama,1997.0,,,,0,Barack,0,Obama,3193018
+149,Barack Obama,1998.0,,,,0,Barack,0,Obama,3229407
+150,Barack Obama,1999.0,,,,0,Barack,0,Obama,3233110
+151,Barack Obama,2000.0,,,,0,Barack,0,Obama,3296850
+152,Barack Obama,2001.0,,,,0,Barack,0,Obama,3250984
+153,Barack Obama,2002.0,,,,0,Barack,0,Obama,3238053
+154,Barack Obama,2003.0,,,,0,Barack,0,Obama,3288978
+155,Barack Obama,2004.0,,,,0,Barack,0,Obama,3293984
+156,Barack Obama,2005.0,,,,0,Barack,0,Obama,3305315
+157,Barack Obama,2006.0,,,,0,Barack,0,Obama,3387737
+158,Barack Obama,2007.0,,,,0,Barack,0,Obama,3412417
+159,Barack Obama,2008.0,,,,21,Barack,0,Obama,3340318
+160,George W. Bush,1929.0,,,,23169,George,0,Bush,2040623
+161,George W. Bush,1930.0,,,,22962,George,0,Bush,2070844
+162,George W. Bush,1931.0,,,,20804,George,0,Bush,1958859
+163,George W. Bush,1932.0,,,,20564,George,0,Bush,1964421
+164,George W. Bush,1933.0,,,,18438,George,0,Bush,1857674
+165,George W. Bush,1934.0,,,,18615,George,0,Bush,1933466
+166,George W. Bush,1935.0,,,,18675,George,0,Bush,1946981
+167,George W. Bush,1936.0,,,,18274,George,0,Bush,1936249
+168,George W. Bush,1937.0,,,,18537,George,0,Bush,1986759
+169,George W. Bush,1938.0,,,,18524,George,0,Bush,2068294
+170,George W. Bush,1939.0,,,,17974,George,0,Bush,2059878
+171,George W. Bush,1940.0,,,,18389,George,0,Bush,2157632
+172,George W. Bush,1941.0,,,,19309,George,0,Bush,2288235
+173,George W. Bush,1942.0,,,,21380,George,0,Bush,2576573
+174,George W. Bush,1943.0,,,,21769,George,0,Bush,2664927
+175,George W. Bush,1944.0,,,,20491,George,0,Bush,2537120
+176,George W. Bush,1945.0,,,,19381,George,0,Bush,2501963
+177,George W. Bush,1946.0,,,,21639,George,0,Bush,3032350
+178,George W. Bush,1947.0,,,,23978,George,0,Bush,3427532
+179,George W. Bush,1948.0,,,,21989,George,0,Bush,3280438
+180,George W. Bush,1949.0,,,,21403,George,0,Bush,3312353
+181,George W. Bush,1950.0,,,,20234,George,0,Bush,3330666
+182,George W. Bush,1951.0,,,,20260,George,0,Bush,3504403
+183,George W. Bush,1952.0,,,,19850,George,0,Bush,3617370
+184,George W. Bush,1953.0,,,,19200,George,0,Bush,3665807
+185,George W. Bush,1954.0,,,,18728,George,0,Bush,3790625
+186,George W. Bush,1955.0,,,,18222,George,0,Bush,3821699
+187,George W. Bush,1956.0,,,,17276,George,0,Bush,3926008
+188,George W. Bush,1957.0,,,,16922,George,0,Bush,4002231
+189,George W. Bush,1958.0,,,,15678,George,0,Bush,3933693
+190,George W. Bush,1959.0,,,,15059,George,0,Bush,3955363
+191,George W. Bush,1960.0,,,,14082,George,0,Bush,3948284
+192,George W. Bush,1961.0,,,,13677,George,0,Bush,3929909
+193,George W. Bush,1962.0,,,,12573,George,0,Bush,3826131
+194,George W. Bush,1963.0,,,,12129,George,0,Bush,3747914
+195,George W. Bush,1964.0,,,,11812,George,0,Bush,3674865
+196,George W. Bush,1965.0,,,,10713,George,0,Bush,3420034
+197,George W. Bush,1966.0,,,,9962,George,0,Bush,3268132
+198,George W. Bush,1967.0,,,,9723,George,0,Bush,3184540
+199,George W. Bush,1968.0,,,,9395,George,0,Bush,3160072
+200,George W. Bush,1969.0,,,,9239,George,0,Bush,3245564
+201,George W. Bush,1970.0,,,,8948,George,0,Bush,3359931
+202,George W. Bush,1971.0,,,,8252,George,0,Bush,3177813
+203,George W. Bush,1972.0,,,,7178,George,0,Bush,2890397
+204,George W. Bush,1973.0,,,,6611,George,0,Bush,2759517
+205,George W. Bush,1974.0,,,,6297,George,0,Bush,2774144
+206,George W. Bush,1975.0,,,,5861,George,0,Bush,2744651
+207,George W. Bush,1976.0,,,,5563,George,0,Bush,2754069
+208,George W. Bush,1977.0,,,,5618,George,0,Bush,2882671
+209,George W. Bush,1978.0,,,,5310,George,0,Bush,2877289
+210,George W. Bush,1979.0,,,,5259,George,0,Bush,3018685
+211,George W. Bush,1980.0,,,,5299,George,0,Bush,3130096
+212,George W. Bush,1981.0,,,,5162,George,0,Bush,3145554
+213,George W. Bush,1982.0,,,,4998,George,0,Bush,3192364
+214,George W. Bush,1983.0,,,,4496,George,0,Bush,3153008
+215,George W. Bush,1984.0,,,,4266,George,0,Bush,3176106
+216,George W. Bush,1985.0,,,,4248,George,0,Bush,3245530
+217,George W. Bush,1986.0,,,,4346,George,0,Bush,3227500
+218,George W. Bush,1987.0,,,,4084,George,0,Bush,3265895
+219,George W. Bush,1988.0,,,,4283,George,0,Bush,3340519
+220,George W. Bush,1989.0,,,,4510,George,0,Bush,3475179
+221,George W. Bush,1990.0,,,,4561,George,0,Bush,3566331
+222,George W. Bush,1991.0,,,,4172,George,0,Bush,3502689
+223,George W. Bush,1992.0,,,,3890,George,0,Bush,3442170
+224,George W. Bush,1993.0,,,,3512,George,0,Bush,3363860
+225,George W. Bush,1994.0,,,,3310,George,0,Bush,3307185
+226,George W. Bush,1995.0,,,,3280,George,0,Bush,3249146
+227,George W. Bush,1996.0,,,,3220,George,0,Bush,3224919
+228,George W. Bush,1997.0,,,,3167,George,0,Bush,3193018
+229,George W. Bush,1998.0,,,,3027,George,0,Bush,3229407
+230,George W. Bush,1999.0,,,,3030,George,0,Bush,3233110
+231,George W. Bush,2000.0,,,,3024,George,0,Bush,3296850
+232,George W. Bush,2010.0,,,,2346,George,0,Bush,3116548
+233,George W. Bush,2011.0,,,,2304,George,0,Bush,3079145
+234,George W. Bush,2012.0,,,,2317,George,0,Bush,3073858
+235,George W. Bush,2013.0,,,,2529,George,0,Bush,3066443
+236,George W. Bush,2014.0,,,,2985,George,0,Bush,3113611
+237,George W. Bush,2015.0,,,,0,George,0,Bush,0
+238,William J. Clinton,1929.0,,,,2929,Bill,739,Clinton,2040623
+239,William J. Clinton,1930.0,,,,3138,Bill,672,Clinton,2070844
+240,William J. Clinton,1931.0,,,,3206,Bill,670,Clinton,1958859
+241,William J. Clinton,1932.0,,,,3350,Bill,673,Clinton,1964421
+242,William J. Clinton,1933.0,,,,3207,Bill,619,Clinton,1857674
+243,William J. Clinton,1934.0,,,,3524,Bill,613,Clinton,1933466
+244,William J. Clinton,1935.0,,,,3279,Bill,689,Clinton,1946981
+245,William J. Clinton,1936.0,,,,3159,Bill,626,Clinton,1936249
+246,William J. Clinton,1937.0,,,,3109,Bill,634,Clinton,1986759
+247,William J. Clinton,1938.0,,,,3102,Bill,625,Clinton,2068294
+248,William J. Clinton,1939.0,,,,3142,Bill,622,Clinton,2059878
+249,William J. Clinton,1940.0,,,,3254,Bill,595,Clinton,2157632
+250,William J. Clinton,1941.0,,,,3440,Bill,717,Clinton,2288235
+251,William J. Clinton,1942.0,,,,3779,Bill,706,Clinton,2576573
+252,William J. Clinton,1943.0,,,,3971,Bill,689,Clinton,2664927
+253,William J. Clinton,1944.0,,,,3796,Bill,672,Clinton,2537120
+254,William J. Clinton,1945.0,,,,3699,Bill,645,Clinton,2501963
+255,William J. Clinton,1946.0,,,,4344,Bill,792,Clinton,3032350
+256,William J. Clinton,1947.0,,,,4667,Bill,921,Clinton,3427532
+257,William J. Clinton,1948.0,,,,3913,Bill,832,Clinton,3280438
+258,William J. Clinton,1949.0,,,,2752,Bill,887,Clinton,3312353
+259,William J. Clinton,1950.0,,,,2027,Bill,798,Clinton,3330666
+260,William J. Clinton,1951.0,,,,1636,Bill,876,Clinton,3504403
+261,William J. Clinton,1952.0,,,,1572,Bill,862,Clinton,3617370
+262,William J. Clinton,1953.0,,,,1500,Bill,818,Clinton,3665807
+263,William J. Clinton,1954.0,,,,1507,Bill,775,Clinton,3790625
+264,William J. Clinton,1955.0,,,,1639,Bill,813,Clinton,3821699
+265,William J. Clinton,1956.0,,,,1941,Bill,930,Clinton,3926008
+266,William J. Clinton,1957.0,,,,3109,Bill,1061,Clinton,4002231
+267,William J. Clinton,1958.0,,,,4206,Bill,1058,Clinton,3933693
+268,William J. Clinton,1959.0,,,,4599,Bill,1108,Clinton,3955363
+269,William J. Clinton,1960.0,,,,4499,Bill,1084,Clinton,3948284
+270,William J. Clinton,1961.0,,,,3997,Bill,984,Clinton,3929909
+271,William J. Clinton,1962.0,,,,3575,Bill,895,Clinton,3826131
+272,William J. Clinton,1963.0,,,,3188,Bill,962,Clinton,3747914
+273,William J. Clinton,1964.0,,,,2732,Bill,1010,Clinton,3674865
+274,William J. Clinton,1965.0,,,,2046,Bill,889,Clinton,3420034
+275,William J. Clinton,1966.0,,,,1544,Bill,799,Clinton,3268132
+276,William J. Clinton,1967.0,,,,1260,Bill,890,Clinton,3184540
+277,William J. Clinton,1968.0,,,,1151,Bill,1105,Clinton,3160072
+278,William J. Clinton,1969.0,,,,1053,Bill,1466,Clinton,3245564
+279,William J. Clinton,1970.0,,,,990,Bill,1590,Clinton,3359931
+280,William J. Clinton,1971.0,,,,855,Bill,1471,Clinton,3177813
+281,William J. Clinton,1972.0,,,,651,Bill,1467,Clinton,2890397
+282,William J. Clinton,1973.0,,,,474,Bill,1491,Clinton,2759517
+283,William J. Clinton,1974.0,,,,434,Bill,1540,Clinton,2774144
+284,William J. Clinton,1975.0,,,,379,Bill,1567,Clinton,2744651
+285,William J. Clinton,1976.0,,,,325,Bill,1649,Clinton,2754069
+286,William J. Clinton,1977.0,,,,277,Bill,1854,Clinton,2882671
+287,William J. Clinton,1978.0,,,,211,Bill,1758,Clinton,2877289
+288,William J. Clinton,1979.0,,,,222,Bill,1850,Clinton,3018685
+289,William J. Clinton,1980.0,,,,201,Bill,2156,Clinton,3130096
+290,William J. Clinton,1981.0,,,,160,Bill,2195,Clinton,3145554
+291,William J. Clinton,1982.0,,,,189,Bill,2069,Clinton,3192364
+292,William J. Clinton,1983.0,,,,141,Bill,1880,Clinton,3153008
+293,William J. Clinton,1984.0,,,,105,Bill,1840,Clinton,3176106
+294,William J. Clinton,1985.0,,,,128,Bill,1679,Clinton,3245530
+295,William J. Clinton,1986.0,,,,65,Bill,1513,Clinton,3227500
+296,William J. Clinton,1987.0,,,,86,Bill,1346,Clinton,3265895
+297,William J. Clinton,1988.0,,,,77,Bill,1380,Clinton,3340519
+298,William J. Clinton,1989.0,,,,68,Bill,1333,Clinton,3475179
+299,William J. Clinton,1990.0,,,,64,Bill,1485,Clinton,3566331
+300,William J. Clinton,1991.0,,,,76,Bill,1642,Clinton,3502689
+301,William J. Clinton,1992.0,,,,80,Bill,1454,Clinton,3442170
+302,William J. Clinton,2002.0,,,,36,Bill,208,Clinton,3238053
+303,William J. Clinton,2003.0,,,,39,Bill,201,Clinton,3288978
+304,William J. Clinton,2004.0,,,,48,Bill,216,Clinton,3293984
+305,William J. Clinton,2005.0,,,,37,Bill,245,Clinton,3305315
+306,William J. Clinton,2006.0,,,,41,Bill,185,Clinton,3387737
+307,William J. Clinton,2007.0,,,,47,Bill,253,Clinton,3412417
+308,William J. Clinton,2008.0,,,,32,Bill,184,Clinton,3340318
+309,William J. Clinton,2009.0,,,,14,Bill,161,Clinton,3232116
+310,William J. Clinton,2010.0,,,,25,Bill,156,Clinton,3116548
+311,William J. Clinton,2011.0,,,,12,Bill,174,Clinton,3079145
+312,William J. Clinton,2012.0,,,,21,Bill,175,Clinton,3073858
+313,William J. Clinton,2013.0,,,,18,Bill,183,Clinton,3066443
+314,William J. Clinton,2014.0,,,,20,Bill,166,Clinton,3113611
+315,William J. Clinton,2015.0,,,,0,Bill,0,Clinton,0
+316,George Bush,1929.0,,,,23169,George,0,Bush,2040623
+317,George Bush,1930.0,,,,22962,George,0,Bush,2070844
+318,George Bush,1931.0,,,,20804,George,0,Bush,1958859
+319,George Bush,1932.0,,,,20564,George,0,Bush,1964421
+320,George Bush,1933.0,,,,18438,George,0,Bush,1857674
+321,George Bush,1934.0,,,,18615,George,0,Bush,1933466
+322,George Bush,1935.0,,,,18675,George,0,Bush,1946981
+323,George Bush,1936.0,,,,18274,George,0,Bush,1936249
+324,George Bush,1937.0,,,,18537,George,0,Bush,1986759
+325,George Bush,1938.0,,,,18524,George,0,Bush,2068294
+326,George Bush,1939.0,,,,17974,George,0,Bush,2059878
+327,George Bush,1940.0,,,,18389,George,0,Bush,2157632
+328,George Bush,1941.0,,,,19309,George,0,Bush,2288235
+329,George Bush,1942.0,,,,21380,George,0,Bush,2576573
+330,George Bush,1943.0,,,,21769,George,0,Bush,2664927
+331,George Bush,1944.0,,,,20491,George,0,Bush,2537120
+332,George Bush,1945.0,,,,19381,George,0,Bush,2501963
+333,George Bush,1946.0,,,,21639,George,0,Bush,3032350
+334,George Bush,1947.0,,,,23978,George,0,Bush,3427532
+335,George Bush,1948.0,,,,21989,George,0,Bush,3280438
+336,George Bush,1949.0,,,,21403,George,0,Bush,3312353
+337,George Bush,1950.0,,,,20234,George,0,Bush,3330666
+338,George Bush,1951.0,,,,20260,George,0,Bush,3504403
+339,George Bush,1952.0,,,,19850,George,0,Bush,3617370
+340,George Bush,1953.0,,,,19200,George,0,Bush,3665807
+341,George Bush,1954.0,,,,18728,George,0,Bush,3790625
+342,George Bush,1955.0,,,,18222,George,0,Bush,3821699
+343,George Bush,1956.0,,,,17276,George,0,Bush,3926008
+344,George Bush,1957.0,,,,16922,George,0,Bush,4002231
+345,George Bush,1958.0,,,,15678,George,0,Bush,3933693
+346,George Bush,1959.0,,,,15059,George,0,Bush,3955363
+347,George Bush,1960.0,,,,14082,George,0,Bush,3948284
+348,George Bush,1961.0,,,,13677,George,0,Bush,3929909
+349,George Bush,1962.0,,,,12573,George,0,Bush,3826131
+350,George Bush,1963.0,,,,12129,George,0,Bush,3747914
+351,George Bush,1964.0,,,,11812,George,0,Bush,3674865
+352,George Bush,1965.0,,,,10713,George,0,Bush,3420034
+353,George Bush,1966.0,,,,9962,George,0,Bush,3268132
+354,George Bush,1967.0,,,,9723,George,0,Bush,3184540
+355,George Bush,1968.0,,,,9395,George,0,Bush,3160072
+356,George Bush,1969.0,,,,9239,George,0,Bush,3245564
+357,George Bush,1970.0,,,,8948,George,0,Bush,3359931
+358,George Bush,1971.0,,,,8252,George,0,Bush,3177813
+359,George Bush,1972.0,,,,7178,George,0,Bush,2890397
+360,George Bush,1973.0,,,,6611,George,0,Bush,2759517
+361,George Bush,1974.0,,,,6297,George,0,Bush,2774144
+362,George Bush,1975.0,,,,5861,George,0,Bush,2744651
+363,George Bush,1976.0,,,,5563,George,0,Bush,2754069
+364,George Bush,1977.0,,,,5618,George,0,Bush,2882671
+365,George Bush,1978.0,,,,5310,George,0,Bush,2877289
+366,George Bush,1979.0,,,,5259,George,0,Bush,3018685
+367,George Bush,1980.0,,,,5299,George,0,Bush,3130096
+368,George Bush,1981.0,,,,5162,George,0,Bush,3145554
+369,George Bush,1982.0,,,,4998,George,0,Bush,3192364
+370,George Bush,1983.0,,,,4496,George,0,Bush,3153008
+371,George Bush,1984.0,,,,4266,George,0,Bush,3176106
+372,George Bush,1985.0,,,,4248,George,0,Bush,3245530
+373,George Bush,1986.0,,,,4346,George,0,Bush,3227500
+374,George Bush,1987.0,,,,4084,George,0,Bush,3265895
+375,George Bush,1988.0,,,,4283,George,0,Bush,3340519
+376,George Bush,1994.0,,,,3310,George,0,Bush,3307185
+377,George Bush,1995.0,,,,3280,George,0,Bush,3249146
+378,George Bush,1996.0,,,,3220,George,0,Bush,3224919
+379,George Bush,1997.0,,,,3167,George,0,Bush,3193018
+380,George Bush,1998.0,,,,3027,George,0,Bush,3229407
+381,George Bush,1999.0,,,,3030,George,0,Bush,3233110
+382,George Bush,2000.0,,,,3024,George,0,Bush,3296850
+383,George Bush,2001.0,,,,3077,George,0,Bush,3250984
+384,George Bush,2002.0,,,,3006,George,0,Bush,3238053
+385,George Bush,2003.0,,,,2905,George,0,Bush,3288978
+386,George Bush,2004.0,,,,2733,George,0,Bush,3293984
+387,George Bush,2005.0,,,,2810,George,0,Bush,3305315
+388,George Bush,2006.0,,,,2692,George,0,Bush,3387737
+389,George Bush,2007.0,,,,2749,George,0,Bush,3412417
+390,George Bush,2008.0,,,,2541,George,0,Bush,3340318
+391,George Bush,2009.0,,,,2367,George,0,Bush,3232116
+392,George Bush,2010.0,,,,2346,George,0,Bush,3116548
+393,George Bush,2011.0,,,,2304,George,0,Bush,3079145
+394,George Bush,2012.0,,,,2317,George,0,Bush,3073858
+395,George Bush,2013.0,,,,2529,George,0,Bush,3066443
+396,George Bush,2014.0,,,,2985,George,0,Bush,3113611
+397,George Bush,2015.0,,,,0,George,0,Bush,0
+398,Ronald Reagan,1929.0,,,,4467,Ronald,0,Reagan,2040623
+399,Ronald Reagan,1930.0,,,,5639,Ronald,0,Reagan,2070844
+400,Ronald Reagan,1931.0,,,,6723,Ronald,7,Reagan,1958859
+401,Ronald Reagan,1932.0,,,,11143,Ronald,0,Reagan,1964421
+402,Ronald Reagan,1933.0,,,,12068,Ronald,0,Reagan,1857674
+403,Ronald Reagan,1934.0,,,,14097,Ronald,0,Reagan,1933466
+404,Ronald Reagan,1935.0,,,,15493,Ronald,0,Reagan,1946981
+405,Ronald Reagan,1936.0,,,,16929,Ronald,0,Reagan,1936249
+406,Ronald Reagan,1937.0,,,,18149,Ronald,0,Reagan,1986759
+407,Ronald Reagan,1938.0,,,,20326,Ronald,5,Reagan,2068294
+408,Ronald Reagan,1939.0,,,,19836,Ronald,6,Reagan,2059878
+409,Ronald Reagan,1940.0,,,,20747,Ronald,7,Reagan,2157632
+410,Ronald Reagan,1941.0,,,,24410,Ronald,6,Reagan,2288235
+411,Ronald Reagan,1942.0,,,,27169,Ronald,8,Reagan,2576573
+412,Ronald Reagan,1943.0,,,,29268,Ronald,9,Reagan,2664927
+413,Ronald Reagan,1944.0,,,,25524,Ronald,0,Reagan,2537120
+414,Ronald Reagan,1945.0,,,,23682,Ronald,8,Reagan,2501963
+415,Ronald Reagan,1946.0,,,,31892,Ronald,9,Reagan,3032350
+416,Ronald Reagan,1947.0,,,,34917,Ronald,7,Reagan,3427532
+417,Ronald Reagan,1948.0,,,,33525,Ronald,11,Reagan,3280438
+418,Ronald Reagan,1949.0,,,,31540,Ronald,8,Reagan,3312353
+419,Ronald Reagan,1950.0,,,,29959,Ronald,12,Reagan,3330666
+420,Ronald Reagan,1951.0,,,,29035,Ronald,11,Reagan,3504403
+421,Ronald Reagan,1952.0,,,,27821,Ronald,11,Reagan,3617370
+422,Ronald Reagan,1953.0,,,,27675,Ronald,5,Reagan,3665807
+423,Ronald Reagan,1954.0,,,,27618,Ronald,7,Reagan,3790625
+424,Ronald Reagan,1955.0,,,,26180,Ronald,6,Reagan,3821699
+425,Ronald Reagan,1956.0,,,,27741,Ronald,6,Reagan,3926008
+426,Ronald Reagan,1957.0,,,,27236,Ronald,8,Reagan,4002231
+427,Ronald Reagan,1958.0,,,,24825,Ronald,6,Reagan,3933693
+428,Ronald Reagan,1959.0,,,,23147,Ronald,0,Reagan,3955363
+429,Ronald Reagan,1960.0,,,,21727,Ronald,8,Reagan,3948284
+430,Ronald Reagan,1961.0,,,,20836,Ronald,6,Reagan,3929909
+431,Ronald Reagan,1962.0,,,,19998,Ronald,11,Reagan,3826131
+432,Ronald Reagan,1963.0,,,,19803,Ronald,22,Reagan,3747914
+433,Ronald Reagan,1964.0,,,,18866,Ronald,22,Reagan,3674865
+434,Ronald Reagan,1965.0,,,,17648,Ronald,13,Reagan,3420034
+435,Ronald Reagan,1966.0,,,,16992,Ronald,14,Reagan,3268132
+436,Ronald Reagan,1967.0,,,,16499,Ronald,14,Reagan,3184540
+437,Ronald Reagan,1968.0,,,,15469,Ronald,9,Reagan,3160072
+438,Ronald Reagan,1969.0,,,,14662,Ronald,16,Reagan,3245564
+439,Ronald Reagan,1970.0,,,,13631,Ronald,11,Reagan,3359931
+440,Ronald Reagan,1971.0,,,,11663,Ronald,22,Reagan,3177813
+441,Ronald Reagan,1972.0,,,,9531,Ronald,13,Reagan,2890397
+442,Ronald Reagan,1973.0,,,,8350,Ronald,26,Reagan,2759517
+443,Ronald Reagan,1974.0,,,,7681,Ronald,52,Reagan,2774144
+444,Ronald Reagan,1975.0,,,,7077,Ronald,73,Reagan,2744651
+445,Ronald Reagan,1976.0,,,,6469,Ronald,62,Reagan,2754069
+446,Ronald Reagan,1977.0,,,,6050,Ronald,110,Reagan,2882671
+447,Ronald Reagan,1978.0,,,,5764,Ronald,136,Reagan,2877289
+448,Ronald Reagan,1979.0,,,,5709,Ronald,85,Reagan,3018685
+449,Ronald Reagan,1980.0,,,,5768,Ronald,116,Reagan,3130096
+450,Ronald Reagan,1989.0,,,,4100,Ronald,49,Reagan,3475179
+451,Ronald Reagan,1990.0,,,,3883,Ronald,74,Reagan,3566331
+452,Ronald Reagan,1991.0,,,,3667,Ronald,92,Reagan,3502689
+453,Ronald Reagan,1992.0,,,,3220,Ronald,123,Reagan,3442170
+454,Ronald Reagan,1993.0,,,,2867,Ronald,209,Reagan,3363860
+455,Ronald Reagan,1994.0,,,,2557,Ronald,293,Reagan,3307185
+456,Ronald Reagan,1995.0,,,,2390,Ronald,409,Reagan,3249146
+457,Ronald Reagan,1996.0,,,,2206,Ronald,618,Reagan,3224919
+458,Ronald Reagan,1997.0,,,,2076,Ronald,767,Reagan,3193018
+459,Ronald Reagan,1998.0,,,,1836,Ronald,945,Reagan,3229407
+460,Ronald Reagan,1999.0,,,,1844,Ronald,969,Reagan,3233110
+461,Ronald Reagan,2000.0,,,,1728,Ronald,1225,Reagan,3296850
+462,Ronald Reagan,2001.0,,,,1634,Ronald,1612,Reagan,3250984
+463,Ronald Reagan,2002.0,,,,1489,Ronald,1748,Reagan,3238053
+464,Ronald Reagan,2003.0,,,,1385,Ronald,1786,Reagan,3288978
+465,Ronald Reagan,2004.0,,,,1419,Ronald,2566,Reagan,3293984
+466,Ronald Reagan,2005.0,,,,1285,Ronald,2641,Reagan,3305315
+467,Ronald Reagan,2006.0,,,,1355,Ronald,2441,Reagan,3387737
+468,Ronald Reagan,2007.0,,,,1152,Ronald,2442,Reagan,3412417
+469,Ronald Reagan,2008.0,,,,1054,Ronald,2536,Reagan,3340318
+470,Ronald Reagan,2009.0,,,,895,Ronald,2660,Reagan,3232116
+471,Ronald Reagan,2010.0,,,,887,Ronald,2600,Reagan,3116548
+472,Ronald Reagan,2011.0,,,,859,Ronald,2779,Reagan,3079145
+473,Ronald Reagan,2012.0,,,,760,Ronald,3249,Reagan,3073858
+474,Ronald Reagan,2013.0,,,,700,Ronald,3180,Reagan,3066443
+475,Ronald Reagan,2014.0,,,,759,Ronald,3031,Reagan,3113611
+476,Ronald Reagan,2015.0,,,,0,Ronald,0,Reagan,0
+477,Jimmy Carter,1929.0,,,,1477,Jimmy,32,Carter,2040623
+478,Jimmy Carter,1930.0,,,,1783,Jimmy,22,Carter,2070844
+479,Jimmy Carter,1931.0,,,,2119,Jimmy,37,Carter,1958859
+480,Jimmy Carter,1932.0,,,,2472,Jimmy,20,Carter,1964421
+481,Jimmy Carter,1933.0,,,,2925,Jimmy,35,Carter,1857674
+482,Jimmy Carter,1934.0,,,,3704,Jimmy,52,Carter,1933466
+483,Jimmy Carter,1935.0,,,,4166,Jimmy,52,Carter,1946981
+484,Jimmy Carter,1936.0,,,,4200,Jimmy,42,Carter,1936249
+485,Jimmy Carter,1937.0,,,,4515,Jimmy,43,Carter,1986759
+486,Jimmy Carter,1938.0,,,,4715,Jimmy,72,Carter,2068294
+487,Jimmy Carter,1939.0,,,,4749,Jimmy,30,Carter,2059878
+488,Jimmy Carter,1940.0,,,,4955,Jimmy,25,Carter,2157632
+489,Jimmy Carter,1941.0,,,,5325,Jimmy,47,Carter,2288235
+490,Jimmy Carter,1942.0,,,,5948,Jimmy,46,Carter,2576573
+491,Jimmy Carter,1943.0,,,,6438,Jimmy,76,Carter,2664927
+492,Jimmy Carter,1944.0,,,,6309,Jimmy,80,Carter,2537120
+493,Jimmy Carter,1945.0,,,,6140,Jimmy,82,Carter,2501963
+494,Jimmy Carter,1946.0,,,,7118,Jimmy,97,Carter,3032350
+495,Jimmy Carter,1947.0,,,,7885,Jimmy,121,Carter,3427532
+496,Jimmy Carter,1948.0,,,,6919,Jimmy,93,Carter,3280438
+497,Jimmy Carter,1949.0,,,,6399,Jimmy,122,Carter,3312353
+498,Jimmy Carter,1950.0,,,,5747,Jimmy,116,Carter,3330666
+499,Jimmy Carter,1951.0,,,,5680,Jimmy,123,Carter,3504403
+500,Jimmy Carter,1952.0,,,,5306,Jimmy,84,Carter,3617370
+501,Jimmy Carter,1953.0,,,,5287,Jimmy,113,Carter,3665807
+502,Jimmy Carter,1954.0,,,,5309,Jimmy,130,Carter,3790625
+503,Jimmy Carter,1955.0,,,,5017,Jimmy,101,Carter,3821699
+504,Jimmy Carter,1956.0,,,,5336,Jimmy,139,Carter,3926008
+505,Jimmy Carter,1957.0,,,,5662,Jimmy,68,Carter,4002231
+506,Jimmy Carter,1958.0,,,,5600,Jimmy,105,Carter,3933693
+507,Jimmy Carter,1959.0,,,,5821,Jimmy,89,Carter,3955363
+508,Jimmy Carter,1960.0,,,,5809,Jimmy,88,Carter,3948284
+509,Jimmy Carter,1961.0,,,,5734,Jimmy,73,Carter,3929909
+510,Jimmy Carter,1962.0,,,,5520,Jimmy,76,Carter,3826131
+511,Jimmy Carter,1963.0,,,,5024,Jimmy,96,Carter,3747914
+512,Jimmy Carter,1964.0,,,,4908,Jimmy,82,Carter,3674865
+513,Jimmy Carter,1965.0,,,,4518,Jimmy,59,Carter,3420034
+514,Jimmy Carter,1966.0,,,,4219,Jimmy,60,Carter,3268132
+515,Jimmy Carter,1967.0,,,,4019,Jimmy,88,Carter,3184540
+516,Jimmy Carter,1968.0,,,,3800,Jimmy,70,Carter,3160072
+517,Jimmy Carter,1969.0,,,,3744,Jimmy,101,Carter,3245564
+518,Jimmy Carter,1970.0,,,,3640,Jimmy,103,Carter,3359931
+519,Jimmy Carter,1971.0,,,,3301,Jimmy,120,Carter,3177813
+520,Jimmy Carter,1972.0,,,,2923,Jimmy,99,Carter,2890397
+521,Jimmy Carter,1973.0,,,,2713,Jimmy,59,Carter,2759517
+522,Jimmy Carter,1974.0,,,,2541,Jimmy,69,Carter,2774144
+523,Jimmy Carter,1975.0,,,,2342,Jimmy,104,Carter,2744651
+524,Jimmy Carter,1976.0,,,,2480,Jimmy,104,Carter,2754069
+525,Jimmy Carter,1981.0,,,,2061,Jimmy,46,Carter,3145554
+526,Jimmy Carter,1982.0,,,,2078,Jimmy,68,Carter,3192364
+527,Jimmy Carter,1983.0,,,,2072,Jimmy,49,Carter,3153008
+528,Jimmy Carter,1984.0,,,,2051,Jimmy,84,Carter,3176106
+529,Jimmy Carter,1985.0,,,,1836,Jimmy,118,Carter,3245530
+530,Jimmy Carter,1986.0,,,,1792,Jimmy,122,Carter,3227500
+531,Jimmy Carter,1987.0,,,,1799,Jimmy,161,Carter,3265895
+532,Jimmy Carter,1988.0,,,,1693,Jimmy,205,Carter,3340519
+533,Jimmy Carter,1989.0,,,,1729,Jimmy,263,Carter,3475179
+534,Jimmy Carter,1990.0,,,,1767,Jimmy,287,Carter,3566331
+535,Jimmy Carter,1991.0,,,,1707,Jimmy,383,Carter,3502689
+536,Jimmy Carter,1992.0,,,,1538,Jimmy,461,Carter,3442170
+537,Jimmy Carter,1993.0,,,,1511,Jimmy,522,Carter,3363860
+538,Jimmy Carter,1994.0,,,,1360,Jimmy,519,Carter,3307185
+539,Jimmy Carter,1995.0,,,,1339,Jimmy,909,Carter,3249146
+540,Jimmy Carter,1996.0,,,,1332,Jimmy,1217,Carter,3224919
+541,Jimmy Carter,1997.0,,,,1204,Jimmy,1536,Carter,3193018
+542,Jimmy Carter,1998.0,,,,1061,Jimmy,1807,Carter,3229407
+543,Jimmy Carter,1999.0,,,,1083,Jimmy,1982,Carter,3233110
+544,Jimmy Carter,2000.0,,,,1159,Jimmy,2591,Carter,3296850
+545,Jimmy Carter,2001.0,,,,1088,Jimmy,3453,Carter,3250984
+546,Jimmy Carter,2002.0,,,,1148,Jimmy,3498,Carter,3238053
+547,Jimmy Carter,2003.0,,,,1094,Jimmy,4234,Carter,3288978
+548,Jimmy Carter,2004.0,,,,1111,Jimmy,5066,Carter,3293984
+549,Jimmy Carter,2005.0,,,,1068,Jimmy,5960,Carter,3305315
+550,Jimmy Carter,2006.0,,,,961,Jimmy,6500,Carter,3387737
+551,Jimmy Carter,2007.0,,,,924,Jimmy,6157,Carter,3412417
+552,Jimmy Carter,2008.0,,,,848,Jimmy,7106,Carter,3340318
+553,Jimmy Carter,2009.0,,,,796,Jimmy,8243,Carter,3232116
+554,Jimmy Carter,2010.0,,,,740,Jimmy,8259,Carter,3116548
+555,Jimmy Carter,2011.0,,,,620,Jimmy,8725,Carter,3079145
+556,Jimmy Carter,2012.0,,,,551,Jimmy,9421,Carter,3073858
+557,Jimmy Carter,2013.0,,,,541,Jimmy,9804,Carter,3066443
+558,Jimmy Carter,2014.0,,,,501,Jimmy,10915,Carter,3113611
+559,Jimmy Carter,2015.0,,,,0,Jimmy,0,Carter,0
+560,Gerald R. Ford,1929.0,,,,5967,Gerald,14,Ford,2040623
+561,Gerald R. Ford,1930.0,,,,6482,Gerald,10,Ford,2070844
+562,Gerald R. Ford,1931.0,,,,6827,Gerald,0,Ford,1958859
+563,Gerald R. Ford,1932.0,,,,7336,Gerald,5,Ford,1964421
+564,Gerald R. Ford,1933.0,,,,7425,Gerald,5,Ford,1857674
+565,Gerald R. Ford,1934.0,,,,7824,Gerald,0,Ford,1933466
+566,Gerald R. Ford,1935.0,,,,8450,Gerald,0,Ford,1946981
+567,Gerald R. Ford,1936.0,,,,9021,Gerald,0,Ford,1936249
+568,Gerald R. Ford,1937.0,,,,9424,Gerald,0,Ford,1986759
+569,Gerald R. Ford,1938.0,,,,9969,Gerald,0,Ford,2068294
+570,Gerald R. Ford,1939.0,,,,10046,Gerald,0,Ford,2059878
+571,Gerald R. Ford,1940.0,,,,10258,Gerald,0,Ford,2157632
+572,Gerald R. Ford,1941.0,,,,10948,Gerald,0,Ford,2288235
+573,Gerald R. Ford,1942.0,,,,11485,Gerald,6,Ford,2576573
+574,Gerald R. Ford,1943.0,,,,11354,Gerald,5,Ford,2664927
+575,Gerald R. Ford,1944.0,,,,10018,Gerald,11,Ford,2537120
+576,Gerald R. Ford,1945.0,,,,8856,Gerald,6,Ford,2501963
+577,Gerald R. Ford,1946.0,,,,10026,Gerald,10,Ford,3032350
+578,Gerald R. Ford,1947.0,,,,10749,Gerald,12,Ford,3427532
+579,Gerald R. Ford,1948.0,,,,9847,Gerald,10,Ford,3280438
+580,Gerald R. Ford,1949.0,,,,9802,Gerald,13,Ford,3312353
+581,Gerald R. Ford,1950.0,,,,9724,Gerald,11,Ford,3330666
+582,Gerald R. Ford,1951.0,,,,9533,Gerald,0,Ford,3504403
+583,Gerald R. Ford,1952.0,,,,9037,Gerald,5,Ford,3617370
+584,Gerald R. Ford,1953.0,,,,8601,Gerald,11,Ford,3665807
+585,Gerald R. Ford,1954.0,,,,8541,Gerald,0,Ford,3790625
+586,Gerald R. Ford,1955.0,,,,8068,Gerald,0,Ford,3821699
+587,Gerald R. Ford,1956.0,,,,7978,Gerald,5,Ford,3926008
+588,Gerald R. Ford,1957.0,,,,7594,Gerald,0,Ford,4002231
+589,Gerald R. Ford,1958.0,,,,6864,Gerald,9,Ford,3933693
+590,Gerald R. Ford,1959.0,,,,6636,Gerald,22,Ford,3955363
+591,Gerald R. Ford,1960.0,,,,6565,Gerald,10,Ford,3948284
+592,Gerald R. Ford,1961.0,,,,6633,Gerald,0,Ford,3929909
+593,Gerald R. Ford,1962.0,,,,6232,Gerald,0,Ford,3826131
+594,Gerald R. Ford,1963.0,,,,6158,Gerald,0,Ford,3747914
+595,Gerald R. Ford,1964.0,,,,5874,Gerald,0,Ford,3674865
+596,Gerald R. Ford,1965.0,,,,5263,Gerald,0,Ford,3420034
+597,Gerald R. Ford,1966.0,,,,4863,Gerald,5,Ford,3268132
+598,Gerald R. Ford,1967.0,,,,4873,Gerald,0,Ford,3184540
+599,Gerald R. Ford,1968.0,,,,4477,Gerald,0,Ford,3160072
+600,Gerald R. Ford,1969.0,,,,4397,Gerald,0,Ford,3245564
+601,Gerald R. Ford,1970.0,,,,4406,Gerald,0,Ford,3359931
+602,Gerald R. Ford,1971.0,,,,3601,Gerald,0,Ford,3177813
+603,Gerald R. Ford,1972.0,,,,2820,Gerald,0,Ford,2890397
+604,Gerald R. Ford,1973.0,,,,2590,Gerald,0,Ford,2759517
+605,Gerald R. Ford,1977.0,,,,2032,Gerald,0,Ford,2882671
+606,Gerald R. Ford,1978.0,,,,1876,Gerald,0,Ford,2877289
+607,Gerald R. Ford,1979.0,,,,1856,Gerald,0,Ford,3018685
+608,Gerald R. Ford,1980.0,,,,1799,Gerald,0,Ford,3130096
+609,Gerald R. Ford,1981.0,,,,1745,Gerald,0,Ford,3145554
+610,Gerald R. Ford,1982.0,,,,1728,Gerald,0,Ford,3192364
+611,Gerald R. Ford,1983.0,,,,1536,Gerald,0,Ford,3153008
+612,Gerald R. Ford,1984.0,,,,1425,Gerald,0,Ford,3176106
+613,Gerald R. Ford,1985.0,,,,1420,Gerald,0,Ford,3245530
+614,Gerald R. Ford,1986.0,,,,1438,Gerald,0,Ford,3227500
+615,Gerald R. Ford,1987.0,,,,1417,Gerald,0,Ford,3265895
+616,Gerald R. Ford,1988.0,,,,1379,Gerald,5,Ford,3340519
+617,Gerald R. Ford,1989.0,,,,1452,Gerald,0,Ford,3475179
+618,Gerald R. Ford,1990.0,,,,1434,Gerald,0,Ford,3566331
+619,Gerald R. Ford,1991.0,,,,1232,Gerald,0,Ford,3502689
+620,Gerald R. Ford,1992.0,,,,1134,Gerald,0,Ford,3442170
+621,Gerald R. Ford,1993.0,,,,1098,Gerald,0,Ford,3363860
+622,Gerald R. Ford,1994.0,,,,929,Gerald,0,Ford,3307185
+623,Gerald R. Ford,1995.0,,,,851,Gerald,10,Ford,3249146
+624,Gerald R. Ford,1996.0,,,,790,Gerald,16,Ford,3224919
+625,Gerald R. Ford,1997.0,,,,745,Gerald,18,Ford,3193018
+626,Gerald R. Ford,1998.0,,,,632,Gerald,0,Ford,3229407
+627,Gerald R. Ford,1999.0,,,,644,Gerald,5,Ford,3233110
+628,Gerald R. Ford,2000.0,,,,639,Gerald,5,Ford,3296850
+629,Gerald R. Ford,2001.0,,,,569,Gerald,15,Ford,3250984
+630,Gerald R. Ford,2002.0,,,,529,Gerald,9,Ford,3238053
+631,Gerald R. Ford,2003.0,,,,465,Gerald,17,Ford,3288978
+632,Gerald R. Ford,2004.0,,,,522,Gerald,12,Ford,3293984
+633,Gerald R. Ford,2005.0,,,,432,Gerald,18,Ford,3305315
+634,Gerald R. Ford,2006.0,,,,426,Gerald,52,Ford,3387737
+635,Gerald R. Ford,2007.0,,,,424,Gerald,24,Ford,3412417
+636,Gerald R. Ford,2008.0,,,,370,Gerald,35,Ford,3340318
+637,Gerald R. Ford,2009.0,,,,355,Gerald,38,Ford,3232116
+638,Gerald R. Ford,2010.0,,,,303,Gerald,43,Ford,3116548
+639,Gerald R. Ford,2011.0,,,,318,Gerald,81,Ford,3079145
+640,Gerald R. Ford,2012.0,,,,281,Gerald,106,Ford,3073858
+641,Gerald R. Ford,2013.0,,,,273,Gerald,132,Ford,3066443
+642,Gerald R. Ford,2014.0,,,,228,Gerald,189,Ford,3113611
+643,Gerald R. Ford,2015.0,,,,0,Gerald,0,Ford,0
+644,Richard Nixon,1929.0,,,,29715,Richard,0,Nixon,2040623
+645,Richard Nixon,1930.0,,,,32277,Richard,0,Nixon,2070844
+646,Richard Nixon,1931.0,,,,31903,Richard,0,Nixon,1958859
+647,Richard Nixon,1932.0,,,,31871,Richard,0,Nixon,1964421
+648,Richard Nixon,1933.0,,,,31402,Richard,0,Nixon,1857674
+649,Richard Nixon,1934.0,,,,33230,Richard,0,Nixon,1933466
+650,Richard Nixon,1935.0,,,,34013,Richard,0,Nixon,1946981
+651,Richard Nixon,1936.0,,,,33534,Richard,0,Nixon,1936249
+652,Richard Nixon,1937.0,,,,33040,Richard,0,Nixon,1986759
+653,Richard Nixon,1938.0,,,,34457,Richard,0,Nixon,2068294
+654,Richard Nixon,1939.0,,,,35415,Richard,0,Nixon,2059878
+655,Richard Nixon,1940.0,,,,37473,Richard,0,Nixon,2157632
+656,Richard Nixon,1941.0,,,,39171,Richard,0,Nixon,2288235
+657,Richard Nixon,1942.0,,,,43646,Richard,0,Nixon,2576573
+658,Richard Nixon,1943.0,,,,46383,Richard,0,Nixon,2664927
+659,Richard Nixon,1944.0,,,,45680,Richard,0,Nixon,2537120
+660,Richard Nixon,1945.0,,,,46106,Richard,0,Nixon,2501963
+661,Richard Nixon,1946.0,,,,58918,Richard,0,Nixon,3032350
+662,Richard Nixon,1947.0,,,,58597,Richard,0,Nixon,3427532
+663,Richard Nixon,1948.0,,,,51018,Richard,0,Nixon,3280438
+664,Richard Nixon,1949.0,,,,50992,Richard,0,Nixon,3312353
+665,Richard Nixon,1950.0,,,,51055,Richard,0,Nixon,3330666
+666,Richard Nixon,1951.0,,,,54526,Richard,0,Nixon,3504403
+667,Richard Nixon,1952.0,,,,58397,Richard,0,Nixon,3617370
+668,Richard Nixon,1953.0,,,,58363,Richard,0,Nixon,3665807
+669,Richard Nixon,1954.0,,,,57062,Richard,0,Nixon,3790625
+670,Richard Nixon,1955.0,,,,53601,Richard,0,Nixon,3821699
+671,Richard Nixon,1956.0,,,,52948,Richard,0,Nixon,3926008
+672,Richard Nixon,1957.0,,,,52444,Richard,0,Nixon,4002231
+673,Richard Nixon,1958.0,,,,50017,Richard,0,Nixon,3933693
+674,Richard Nixon,1959.0,,,,47245,Richard,0,Nixon,3955363
+675,Richard Nixon,1960.0,,,,43640,Richard,0,Nixon,3948284
+676,Richard Nixon,1961.0,,,,41193,Richard,0,Nixon,3929909
+677,Richard Nixon,1962.0,,,,39519,Richard,0,Nixon,3826131
+678,Richard Nixon,1963.0,,,,40879,Richard,0,Nixon,3747914
+679,Richard Nixon,1964.0,,,,40174,Richard,0,Nixon,3674865
+680,Richard Nixon,1965.0,,,,36936,Richard,0,Nixon,3420034
+681,Richard Nixon,1966.0,,,,34552,Richard,0,Nixon,3268132
+682,Richard Nixon,1967.0,,,,33693,Richard,0,Nixon,3184540
+683,Richard Nixon,1968.0,,,,33107,Richard,0,Nixon,3160072
+684,Richard Nixon,1975.0,,,,17761,Richard,0,Nixon,2744651
+685,Richard Nixon,1976.0,,,,16838,Richard,0,Nixon,2754069
+686,Richard Nixon,1977.0,,,,17520,Richard,0,Nixon,2882671
+687,Richard Nixon,1978.0,,,,16774,Richard,0,Nixon,2877289
+688,Richard Nixon,1979.0,,,,16791,Richard,0,Nixon,3018685
+689,Richard Nixon,1980.0,,,,16719,Richard,0,Nixon,3130096
+690,Richard Nixon,1981.0,,,,16921,Richard,0,Nixon,3145554
+691,Richard Nixon,1982.0,,,,16773,Richard,0,Nixon,3192364
+692,Richard Nixon,1983.0,,,,15962,Richard,0,Nixon,3153008
+693,Richard Nixon,1984.0,,,,15645,Richard,0,Nixon,3176106
+694,Richard Nixon,1985.0,,,,15402,Richard,0,Nixon,3245530
+695,Richard Nixon,1986.0,,,,15076,Richard,0,Nixon,3227500
+696,Richard Nixon,1987.0,,,,14445,Richard,0,Nixon,3265895
+697,Richard Nixon,1988.0,,,,14203,Richard,5,Nixon,3340519
+698,Richard Nixon,1989.0,,,,14162,Richard,0,Nixon,3475179
+699,Richard Nixon,1990.0,,,,13592,Richard,0,Nixon,3566331
+700,Richard Nixon,1991.0,,,,12569,Richard,6,Nixon,3502689
+701,Richard Nixon,1992.0,,,,11340,Richard,0,Nixon,3442170
+702,Richard Nixon,1993.0,,,,10236,Richard,0,Nixon,3363860
+703,Richard Nixon,1994.0,,,,9526,Richard,6,Nixon,3307185
+704,Richard Nixon,1995.0,,,,8789,Richard,0,Nixon,3249146
+705,Richard Nixon,1996.0,,,,8188,Richard,12,Nixon,3224919
+706,Richard Nixon,1997.0,,,,7247,Richard,6,Nixon,3193018
+707,Richard Nixon,1998.0,,,,6952,Richard,0,Nixon,3229407
+708,Richard Nixon,1999.0,,,,6499,Richard,0,Nixon,3233110
+709,Richard Nixon,2000.0,,,,6351,Richard,5,Nixon,3296850
+710,Richard Nixon,2001.0,,,,5768,Richard,5,Nixon,3250984
+711,Richard Nixon,2002.0,,,,5314,Richard,0,Nixon,3238053
+712,Richard Nixon,2003.0,,,,5049,Richard,7,Nixon,3288978
+713,Richard Nixon,2004.0,,,,4858,Richard,10,Nixon,3293984
+714,Richard Nixon,2005.0,,,,4662,Richard,31,Nixon,3305315
+715,Richard Nixon,2006.0,,,,4463,Richard,30,Nixon,3387737
+716,Richard Nixon,2007.0,,,,4409,Richard,45,Nixon,3412417
+717,Richard Nixon,2008.0,,,,4045,Richard,70,Nixon,3340318
+718,Richard Nixon,2009.0,,,,3601,Richard,103,Nixon,3232116
+719,Richard Nixon,2010.0,,,,3222,Richard,137,Nixon,3116548
+720,Richard Nixon,2011.0,,,,3150,Richard,163,Nixon,3079145
+721,Richard Nixon,2012.0,,,,3005,Richard,317,Nixon,3073858
+722,Richard Nixon,2013.0,,,,2775,Richard,374,Nixon,3066443
+723,Richard Nixon,2014.0,,,,2854,Richard,426,Nixon,3113611
+724,Richard Nixon,2015.0,,,,0,Richard,0,Nixon,0
+725,Lyndon B. Johnson,1929.0,,,,0,Lyndon,11,Johnson,2040623
+726,Lyndon B. Johnson,1930.0,,,,11,Lyndon,0,Johnson,2070844
+727,Lyndon B. Johnson,1931.0,,,,0,Lyndon,0,Johnson,1958859
+728,Lyndon B. Johnson,1932.0,,,,0,Lyndon,24,Johnson,1964421
+729,Lyndon B. Johnson,1933.0,,,,0,Lyndon,0,Johnson,1857674
+730,Lyndon B. Johnson,1934.0,,,,0,Lyndon,11,Johnson,1933466
+731,Lyndon B. Johnson,1935.0,,,,10,Lyndon,0,Johnson,1946981
+732,Lyndon B. Johnson,1936.0,,,,10,Lyndon,5,Johnson,1936249
+733,Lyndon B. Johnson,1937.0,,,,5,Lyndon,0,Johnson,1986759
+734,Lyndon B. Johnson,1938.0,,,,0,Lyndon,5,Johnson,2068294
+735,Lyndon B. Johnson,1939.0,,,,12,Lyndon,6,Johnson,2059878
+736,Lyndon B. Johnson,1940.0,,,,13,Lyndon,8,Johnson,2157632
+737,Lyndon B. Johnson,1941.0,,,,53,Lyndon,5,Johnson,2288235
+738,Lyndon B. Johnson,1942.0,,,,39,Lyndon,10,Johnson,2576573
+739,Lyndon B. Johnson,1943.0,,,,44,Lyndon,0,Johnson,2664927
+740,Lyndon B. Johnson,1944.0,,,,30,Lyndon,5,Johnson,2537120
+741,Lyndon B. Johnson,1945.0,,,,16,Lyndon,6,Johnson,2501963
+742,Lyndon B. Johnson,1946.0,,,,30,Lyndon,10,Johnson,3032350
+743,Lyndon B. Johnson,1947.0,,,,25,Lyndon,11,Johnson,3427532
+744,Lyndon B. Johnson,1948.0,,,,23,Lyndon,17,Johnson,3280438
+745,Lyndon B. Johnson,1949.0,,,,37,Lyndon,12,Johnson,3312353
+746,Lyndon B. Johnson,1950.0,,,,30,Lyndon,11,Johnson,3330666
+747,Lyndon B. Johnson,1951.0,,,,22,Lyndon,7,Johnson,3504403
+748,Lyndon B. Johnson,1952.0,,,,19,Lyndon,16,Johnson,3617370
+749,Lyndon B. Johnson,1953.0,,,,24,Lyndon,12,Johnson,3665807
+750,Lyndon B. Johnson,1954.0,,,,20,Lyndon,14,Johnson,3790625
+751,Lyndon B. Johnson,1955.0,,,,41,Lyndon,5,Johnson,3821699
+752,Lyndon B. Johnson,1956.0,,,,88,Lyndon,9,Johnson,3926008
+753,Lyndon B. Johnson,1957.0,,,,98,Lyndon,15,Johnson,4002231
+754,Lyndon B. Johnson,1958.0,,,,106,Lyndon,0,Johnson,3933693
+755,Lyndon B. Johnson,1959.0,,,,119,Lyndon,0,Johnson,3955363
+756,Lyndon B. Johnson,1960.0,,,,200,Lyndon,10,Johnson,3948284
+757,Lyndon B. Johnson,1961.0,,,,143,Lyndon,17,Johnson,3929909
+758,Lyndon B. Johnson,1962.0,,,,82,Lyndon,11,Johnson,3826131
+759,Lyndon B. Johnson,1970.0,,,,23,Lyndon,0,Johnson,3359931
+760,Lyndon B. Johnson,1971.0,,,,0,Lyndon,0,Johnson,3177813
+761,Lyndon B. Johnson,1972.0,,,,5,Lyndon,5,Johnson,2890397
+762,Lyndon B. Johnson,1973.0,,,,23,Lyndon,0,Johnson,2759517
+763,Lyndon B. Johnson,1974.0,,,,13,Lyndon,0,Johnson,2774144
+764,Lyndon B. Johnson,1975.0,,,,6,Lyndon,5,Johnson,2744651
+765,Lyndon B. Johnson,1976.0,,,,22,Lyndon,6,Johnson,2754069
+766,Lyndon B. Johnson,1977.0,,,,23,Lyndon,0,Johnson,2882671
+767,Lyndon B. Johnson,1978.0,,,,0,Lyndon,5,Johnson,2877289
+768,Lyndon B. Johnson,1979.0,,,,5,Lyndon,5,Johnson,3018685
+769,Lyndon B. Johnson,1980.0,,,,18,Lyndon,21,Johnson,3130096
+770,Lyndon B. Johnson,1981.0,,,,23,Lyndon,30,Johnson,3145554
+771,Lyndon B. Johnson,1982.0,,,,29,Lyndon,48,Johnson,3192364
+772,Lyndon B. Johnson,1983.0,,,,40,Lyndon,54,Johnson,3153008
+773,Lyndon B. Johnson,1984.0,,,,15,Lyndon,38,Johnson,3176106
+774,Lyndon B. Johnson,1985.0,,,,26,Lyndon,51,Johnson,3245530
+775,Lyndon B. Johnson,1986.0,,,,51,Lyndon,60,Johnson,3227500
+776,Lyndon B. Johnson,1987.0,,,,47,Lyndon,67,Johnson,3265895
+777,Lyndon B. Johnson,1988.0,,,,37,Lyndon,52,Johnson,3340519
+778,Lyndon B. Johnson,1989.0,,,,69,Lyndon,63,Johnson,3475179
+779,Lyndon B. Johnson,1990.0,,,,40,Lyndon,54,Johnson,3566331
+780,Lyndon B. Johnson,1991.0,,,,45,Lyndon,39,Johnson,3502689
+781,Lyndon B. Johnson,1992.0,,,,36,Lyndon,49,Johnson,3442170
+782,Lyndon B. Johnson,1993.0,,,,33,Lyndon,52,Johnson,3363860
+783,Lyndon B. Johnson,1994.0,,,,27,Lyndon,53,Johnson,3307185
+784,Lyndon B. Johnson,1995.0,,,,20,Lyndon,53,Johnson,3249146
+785,Lyndon B. Johnson,1996.0,,,,39,Lyndon,63,Johnson,3224919
+786,Lyndon B. Johnson,1997.0,,,,41,Lyndon,51,Johnson,3193018
+787,Lyndon B. Johnson,1998.0,,,,53,Lyndon,31,Johnson,3229407
+788,Lyndon B. Johnson,1999.0,,,,43,Lyndon,45,Johnson,3233110
+789,Lyndon B. Johnson,2000.0,,,,29,Lyndon,75,Johnson,3296850
+790,Lyndon B. Johnson,2001.0,,,,9,Lyndon,35,Johnson,3250984
+791,Lyndon B. Johnson,2002.0,,,,28,Lyndon,47,Johnson,3238053
+792,Lyndon B. Johnson,2003.0,,,,51,Lyndon,56,Johnson,3288978
+793,Lyndon B. Johnson,2004.0,,,,42,Lyndon,43,Johnson,3293984
+794,Lyndon B. Johnson,2005.0,,,,36,Lyndon,33,Johnson,3305315
+795,Lyndon B. Johnson,2006.0,,,,45,Lyndon,49,Johnson,3387737
+796,Lyndon B. Johnson,2007.0,,,,46,Lyndon,56,Johnson,3412417
+797,Lyndon B. Johnson,2008.0,,,,40,Lyndon,23,Johnson,3340318
+798,Lyndon B. Johnson,2009.0,,,,50,Lyndon,56,Johnson,3232116
+799,Lyndon B. Johnson,2010.0,,,,47,Lyndon,26,Johnson,3116548
+800,Lyndon B. Johnson,2011.0,,,,58,Lyndon,32,Johnson,3079145
+801,Lyndon B. Johnson,2012.0,,,,70,Lyndon,33,Johnson,3073858
+802,Lyndon B. Johnson,2013.0,,,,95,Lyndon,27,Johnson,3066443
+803,Lyndon B. Johnson,2014.0,,,,82,Lyndon,27,Johnson,3113611
+804,Lyndon B. Johnson,2015.0,,,,0,Lyndon,0,Johnson,0
+805,John F. Kennedy,1929.0,,,,52463,John,0,Kennedy,2040623
+806,John F. Kennedy,1930.0,,,,52806,John,0,Kennedy,2070844
+807,John F. Kennedy,1931.0,,,,48689,John,0,Kennedy,1958859
+808,John F. Kennedy,1932.0,,,,48848,John,0,Kennedy,1964421
+809,John F. Kennedy,1933.0,,,,46403,John,0,Kennedy,1857674
+810,John F. Kennedy,1934.0,,,,46942,John,0,Kennedy,1933466
+811,John F. Kennedy,1935.0,,,,47658,John,0,Kennedy,1946981
+812,John F. Kennedy,1936.0,,,,47828,John,0,Kennedy,1936249
+813,John F. Kennedy,1937.0,,,,48908,John,0,Kennedy,1986759
+814,John F. Kennedy,1938.0,,,,50665,John,0,Kennedy,2068294
+815,John F. Kennedy,1939.0,,,,51202,John,0,Kennedy,2059878
+816,John F. Kennedy,1940.0,,,,54934,John,0,Kennedy,2157632
+817,John F. Kennedy,1941.0,,,,57681,John,0,Kennedy,2288235
+818,John F. Kennedy,1942.0,,,,66210,John,0,Kennedy,2576573
+819,John F. Kennedy,1943.0,,,,69098,John,0,Kennedy,2664927
+820,John F. Kennedy,1944.0,,,,66722,John,0,Kennedy,2537120
+821,John F. Kennedy,1945.0,,,,66268,John,0,Kennedy,2501963
+822,John F. Kennedy,1946.0,,,,79419,John,0,Kennedy,3032350
+823,John F. Kennedy,1947.0,,,,88471,John,0,Kennedy,3427532
+824,John F. Kennedy,1948.0,,,,82967,John,0,Kennedy,3280438
+825,John F. Kennedy,1949.0,,,,81295,John,0,Kennedy,3312353
+826,John F. Kennedy,1950.0,,,,79545,John,0,Kennedy,3330666
+827,John F. Kennedy,1951.0,,,,81669,John,0,Kennedy,3504403
+828,John F. Kennedy,1952.0,,,,83270,John,0,Kennedy,3617370
+829,John F. Kennedy,1953.0,,,,80172,John,0,Kennedy,3665807
+830,John F. Kennedy,1954.0,,,,81260,John,0,Kennedy,3790625
+831,John F. Kennedy,1955.0,,,,80166,John,5,Kennedy,3821699
+832,John F. Kennedy,1956.0,,,,80926,John,0,Kennedy,3926008
+833,John F. Kennedy,1957.0,,,,79163,John,0,Kennedy,4002231
+834,John F. Kennedy,1958.0,,,,76144,John,5,Kennedy,3933693
+835,John F. Kennedy,1959.0,,,,76603,John,0,Kennedy,3955363
+836,John F. Kennedy,1960.0,,,,76302,John,85,Kennedy,3948284
+837,John F. Kennedy,1964.0,,,,82763,John,191,Kennedy,3674865
+838,John F. Kennedy,1965.0,,,,71769,John,93,Kennedy,3420034
+839,John F. Kennedy,1966.0,,,,65281,John,42,Kennedy,3268132
+840,John F. Kennedy,1967.0,,,,61869,John,21,Kennedy,3184540
+841,John F. Kennedy,1968.0,,,,61167,John,14,Kennedy,3160072
+842,John F. Kennedy,1969.0,,,,59039,John,9,Kennedy,3245564
+843,John F. Kennedy,1970.0,,,,58794,John,16,Kennedy,3359931
+844,John F. Kennedy,1971.0,,,,51751,John,7,Kennedy,3177813
+845,John F. Kennedy,1972.0,,,,43357,John,0,Kennedy,2890397
+846,John F. Kennedy,1973.0,,,,39352,John,0,Kennedy,2759517
+847,John F. Kennedy,1974.0,,,,37851,John,0,Kennedy,2774144
+848,John F. Kennedy,1975.0,,,,35287,John,0,Kennedy,2744651
+849,John F. Kennedy,1976.0,,,,34144,John,0,Kennedy,2754069
+850,John F. Kennedy,1977.0,,,,34379,John,0,Kennedy,2882671
+851,John F. Kennedy,1978.0,,,,34181,John,0,Kennedy,2877289
+852,John F. Kennedy,1979.0,,,,35604,John,5,Kennedy,3018685
+853,John F. Kennedy,1980.0,,,,35449,John,0,Kennedy,3130096
+854,John F. Kennedy,1981.0,,,,35012,John,0,Kennedy,3145554
+855,John F. Kennedy,1982.0,,,,34865,John,0,Kennedy,3192364
+856,John F. Kennedy,1983.0,,,,33348,John,0,Kennedy,3153008
+857,John F. Kennedy,1984.0,,,,32783,John,27,Kennedy,3176106
+858,John F. Kennedy,1985.0,,,,31668,John,16,Kennedy,3245530
+859,John F. Kennedy,1986.0,,,,30341,John,15,Kennedy,3227500
+860,John F. Kennedy,1987.0,,,,29696,John,16,Kennedy,3265895
+861,John F. Kennedy,1988.0,,,,29513,John,13,Kennedy,3340519
+862,John F. Kennedy,1989.0,,,,29923,John,39,Kennedy,3475179
+863,John F. Kennedy,1990.0,,,,29107,John,48,Kennedy,3566331
+864,John F. Kennedy,1991.0,,,,27825,John,28,Kennedy,3502689
+865,John F. Kennedy,1992.0,,,,26273,John,55,Kennedy,3442170
+866,John F. Kennedy,1993.0,,,,25014,John,105,Kennedy,3363860
+867,John F. Kennedy,1994.0,,,,24189,John,501,Kennedy,3307185
+868,John F. Kennedy,1995.0,,,,23244,John,1310,Kennedy,3249146
+869,John F. Kennedy,1996.0,,,,22175,John,1495,Kennedy,3224919
+870,John F. Kennedy,1997.0,,,,21374,John,1705,Kennedy,3193018
+871,John F. Kennedy,1998.0,,,,20612,John,1728,Kennedy,3229407
+872,John F. Kennedy,1999.0,,,,20338,John,1971,Kennedy,3233110
+873,John F. Kennedy,2000.0,,,,20086,John,2487,Kennedy,3296850
+874,John F. Kennedy,2001.0,,,,18878,John,2532,Kennedy,3250984
+875,John F. Kennedy,2002.0,,,,17437,John,2634,Kennedy,3238053
+876,John F. Kennedy,2003.0,,,,17221,John,2895,Kennedy,3288978
+877,John F. Kennedy,2004.0,,,,16486,John,3000,Kennedy,3293984
+878,John F. Kennedy,2005.0,,,,15773,John,2917,Kennedy,3305315
+879,John F. Kennedy,2006.0,,,,15160,John,3014,Kennedy,3387737
+880,John F. Kennedy,2007.0,,,,14423,John,3127,Kennedy,3412417
+881,John F. Kennedy,2008.0,,,,13307,John,3041,Kennedy,3340318
+882,John F. Kennedy,2009.0,,,,12100,John,2948,Kennedy,3232116
+883,John F. Kennedy,2010.0,,,,11539,John,2915,Kennedy,3116548
+884,John F. Kennedy,2011.0,,,,11020,John,3309,Kennedy,3079145
+885,John F. Kennedy,2012.0,,,,10593,John,3481,Kennedy,3073858
+886,John F. Kennedy,2013.0,,,,10670,John,4044,Kennedy,3066443
+887,John F. Kennedy,2014.0,,,,10600,John,4558,Kennedy,3113611
+888,John F. Kennedy,2015.0,,,,0,John,0,Kennedy,0
+889,Dwight D. Eisenhower,1929.0,,,,439,Dwight,0,Eisenhower,2040623
+890,Dwight D. Eisenhower,1930.0,,,,509,Dwight,0,Eisenhower,2070844
+891,Dwight D. Eisenhower,1931.0,,,,532,Dwight,0,Eisenhower,1958859
+892,Dwight D. Eisenhower,1932.0,,,,598,Dwight,0,Eisenhower,1964421
+893,Dwight D. Eisenhower,1933.0,,,,476,Dwight,0,Eisenhower,1857674
+894,Dwight D. Eisenhower,1934.0,,,,440,Dwight,0,Eisenhower,1933466
+895,Dwight D. Eisenhower,1935.0,,,,445,Dwight,0,Eisenhower,1946981
+896,Dwight D. Eisenhower,1936.0,,,,374,Dwight,0,Eisenhower,1936249
+897,Dwight D. Eisenhower,1937.0,,,,381,Dwight,0,Eisenhower,1986759
+898,Dwight D. Eisenhower,1938.0,,,,397,Dwight,0,Eisenhower,2068294
+899,Dwight D. Eisenhower,1939.0,,,,342,Dwight,0,Eisenhower,2059878
+900,Dwight D. Eisenhower,1940.0,,,,415,Dwight,0,Eisenhower,2157632
+901,Dwight D. Eisenhower,1941.0,,,,507,Dwight,0,Eisenhower,2288235
+902,Dwight D. Eisenhower,1942.0,,,,692,Dwight,0,Eisenhower,2576573
+903,Dwight D. Eisenhower,1943.0,,,,1222,Dwight,0,Eisenhower,2664927
+904,Dwight D. Eisenhower,1944.0,,,,1487,Dwight,0,Eisenhower,2537120
+905,Dwight D. Eisenhower,1945.0,,,,1740,Dwight,0,Eisenhower,2501963
+906,Dwight D. Eisenhower,1946.0,,,,1740,Dwight,0,Eisenhower,3032350
+907,Dwight D. Eisenhower,1947.0,,,,1530,Dwight,0,Eisenhower,3427532
+908,Dwight D. Eisenhower,1948.0,,,,1633,Dwight,0,Eisenhower,3280438
+909,Dwight D. Eisenhower,1949.0,,,,1705,Dwight,0,Eisenhower,3312353
+910,Dwight D. Eisenhower,1950.0,,,,1798,Dwight,0,Eisenhower,3330666
+911,Dwight D. Eisenhower,1951.0,,,,2045,Dwight,0,Eisenhower,3504403
+912,Dwight D. Eisenhower,1952.0,,,,2400,Dwight,0,Eisenhower,3617370
+913,Dwight D. Eisenhower,1961.0,,,,1650,Dwight,0,Eisenhower,3929909
+914,Dwight D. Eisenhower,1962.0,,,,1496,Dwight,0,Eisenhower,3826131
+915,Dwight D. Eisenhower,1963.0,,,,1437,Dwight,0,Eisenhower,3747914
+916,Dwight D. Eisenhower,1964.0,,,,1237,Dwight,0,Eisenhower,3674865
+917,Dwight D. Eisenhower,1965.0,,,,1205,Dwight,0,Eisenhower,3420034
+918,Dwight D. Eisenhower,1966.0,,,,1028,Dwight,0,Eisenhower,3268132
+919,Dwight D. Eisenhower,1967.0,,,,953,Dwight,0,Eisenhower,3184540
+920,Dwight D. Eisenhower,1968.0,,,,916,Dwight,0,Eisenhower,3160072
+921,Dwight D. Eisenhower,1969.0,,,,1167,Dwight,0,Eisenhower,3245564
+922,Dwight D. Eisenhower,1970.0,,,,1003,Dwight,0,Eisenhower,3359931
+923,Dwight D. Eisenhower,1971.0,,,,876,Dwight,0,Eisenhower,3177813
+924,Dwight D. Eisenhower,1972.0,,,,730,Dwight,0,Eisenhower,2890397
+925,Dwight D. Eisenhower,1973.0,,,,668,Dwight,0,Eisenhower,2759517
+926,Dwight D. Eisenhower,1974.0,,,,663,Dwight,0,Eisenhower,2774144
+927,Dwight D. Eisenhower,1975.0,,,,638,Dwight,0,Eisenhower,2744651
+928,Dwight D. Eisenhower,1976.0,,,,572,Dwight,0,Eisenhower,2754069
+929,Dwight D. Eisenhower,1977.0,,,,533,Dwight,0,Eisenhower,2882671
+930,Dwight D. Eisenhower,1978.0,,,,457,Dwight,0,Eisenhower,2877289
+931,Dwight D. Eisenhower,1979.0,,,,495,Dwight,0,Eisenhower,3018685
+932,Dwight D. Eisenhower,1980.0,,,,478,Dwight,0,Eisenhower,3130096
+933,Dwight D. Eisenhower,1981.0,,,,465,Dwight,0,Eisenhower,3145554
+934,Dwight D. Eisenhower,1982.0,,,,441,Dwight,0,Eisenhower,3192364
+935,Dwight D. Eisenhower,1983.0,,,,494,Dwight,0,Eisenhower,3153008
+936,Dwight D. Eisenhower,1984.0,,,,527,Dwight,0,Eisenhower,3176106
+937,Dwight D. Eisenhower,1985.0,,,,451,Dwight,0,Eisenhower,3245530
+938,Dwight D. Eisenhower,1986.0,,,,470,Dwight,0,Eisenhower,3227500
+939,Dwight D. Eisenhower,1987.0,,,,502,Dwight,0,Eisenhower,3265895
+940,Dwight D. Eisenhower,1988.0,,,,451,Dwight,0,Eisenhower,3340519
+941,Dwight D. Eisenhower,1989.0,,,,439,Dwight,0,Eisenhower,3475179
+942,Dwight D. Eisenhower,1990.0,,,,456,Dwight,0,Eisenhower,3566331
+943,Dwight D. Eisenhower,1991.0,,,,429,Dwight,0,Eisenhower,3502689
+944,Dwight D. Eisenhower,1992.0,,,,371,Dwight,0,Eisenhower,3442170
+945,Dwight D. Eisenhower,1993.0,,,,332,Dwight,0,Eisenhower,3363860
+946,Dwight D. Eisenhower,1994.0,,,,312,Dwight,0,Eisenhower,3307185
+947,Dwight D. Eisenhower,1995.0,,,,253,Dwight,0,Eisenhower,3249146
+948,Dwight D. Eisenhower,1996.0,,,,206,Dwight,0,Eisenhower,3224919
+949,Dwight D. Eisenhower,1997.0,,,,199,Dwight,0,Eisenhower,3193018
+950,Dwight D. Eisenhower,1998.0,,,,207,Dwight,0,Eisenhower,3229407
+951,Dwight D. Eisenhower,1999.0,,,,188,Dwight,0,Eisenhower,3233110
+952,Dwight D. Eisenhower,2000.0,,,,183,Dwight,0,Eisenhower,3296850
+953,Dwight D. Eisenhower,2001.0,,,,143,Dwight,0,Eisenhower,3250984
+954,Dwight D. Eisenhower,2002.0,,,,97,Dwight,0,Eisenhower,3238053
+955,Dwight D. Eisenhower,2003.0,,,,129,Dwight,0,Eisenhower,3288978
+956,Dwight D. Eisenhower,2004.0,,,,144,Dwight,0,Eisenhower,3293984
+957,Dwight D. Eisenhower,2005.0,,,,108,Dwight,0,Eisenhower,3305315
+958,Dwight D. Eisenhower,2006.0,,,,111,Dwight,0,Eisenhower,3387737
+959,Dwight D. Eisenhower,2007.0,,,,123,Dwight,0,Eisenhower,3412417
+960,Dwight D. Eisenhower,2008.0,,,,91,Dwight,0,Eisenhower,3340318
+961,Dwight D. Eisenhower,2009.0,,,,110,Dwight,0,Eisenhower,3232116
+962,Dwight D. Eisenhower,2010.0,,,,90,Dwight,0,Eisenhower,3116548
+963,Dwight D. Eisenhower,2011.0,,,,80,Dwight,0,Eisenhower,3079145
+964,Dwight D. Eisenhower,2012.0,,,,80,Dwight,0,Eisenhower,3073858
+965,Dwight D. Eisenhower,2013.0,,,,87,Dwight,0,Eisenhower,3066443
+966,Dwight D. Eisenhower,2014.0,,,,75,Dwight,0,Eisenhower,3113611
+967,Dwight D. Eisenhower,2015.0,,,,0,Dwight,0,Eisenhower,0
+968,Harry S. Truman,1929.0,,,,7144,Harry,181,Truman,2040623
+969,Harry S. Truman,1930.0,,,,6858,Harry,144,Truman,2070844
+970,Harry S. Truman,1931.0,,,,6039,Harry,150,Truman,1958859
+971,Harry S. Truman,1932.0,,,,5699,Harry,138,Truman,1964421
+972,Harry S. Truman,1933.0,,,,5137,Harry,156,Truman,1857674
+973,Harry S. Truman,1934.0,,,,5094,Harry,159,Truman,1933466
+974,Harry S. Truman,1935.0,,,,5057,Harry,154,Truman,1946981
+975,Harry S. Truman,1936.0,,,,4927,Harry,128,Truman,1936249
+976,Harry S. Truman,1937.0,,,,4813,Harry,146,Truman,1986759
+977,Harry S. Truman,1938.0,,,,4815,Harry,131,Truman,2068294
+978,Harry S. Truman,1939.0,,,,4655,Harry,121,Truman,2059878
+979,Harry S. Truman,1940.0,,,,4677,Harry,164,Truman,2157632
+980,Harry S. Truman,1941.0,,,,5054,Harry,121,Truman,2288235
+981,Harry S. Truman,1942.0,,,,5623,Harry,130,Truman,2576573
+982,Harry S. Truman,1943.0,,,,5715,Harry,171,Truman,2664927
+983,Harry S. Truman,1944.0,,,,5478,Harry,147,Truman,2537120
+984,Harry S. Truman,1953.0,,,,4567,Harry,21,Truman,3665807
+985,Harry S. Truman,1954.0,,,,4354,Harry,29,Truman,3790625
+986,Harry S. Truman,1955.0,,,,4125,Harry,17,Truman,3821699
+987,Harry S. Truman,1956.0,,,,3921,Harry,9,Truman,3926008
+988,Harry S. Truman,1957.0,,,,3790,Harry,8,Truman,4002231
+989,Harry S. Truman,1958.0,,,,3584,Harry,13,Truman,3933693
+990,Harry S. Truman,1959.0,,,,3269,Harry,8,Truman,3955363
+991,Harry S. Truman,1960.0,,,,3006,Harry,29,Truman,3948284
+992,Harry S. Truman,1961.0,,,,2731,Harry,7,Truman,3929909
+993,Harry S. Truman,1962.0,,,,2602,Harry,12,Truman,3826131
+994,Harry S. Truman,1963.0,,,,2481,Harry,12,Truman,3747914
+995,Harry S. Truman,1964.0,,,,2386,Harry,16,Truman,3674865
+996,Harry S. Truman,1965.0,,,,2093,Harry,23,Truman,3420034
+997,Harry S. Truman,1966.0,,,,1975,Harry,0,Truman,3268132
+998,Harry S. Truman,1967.0,,,,1864,Harry,14,Truman,3184540
+999,Harry S. Truman,1968.0,,,,1757,Harry,20,Truman,3160072
+1000,Harry S. Truman,1969.0,,,,1608,Harry,18,Truman,3245564
+1001,Harry S. Truman,1970.0,,,,1681,Harry,9,Truman,3359931
+1002,Harry S. Truman,1971.0,,,,1508,Harry,22,Truman,3177813
+1003,Harry S. Truman,1972.0,,,,1302,Harry,12,Truman,2890397
+1004,Harry S. Truman,1973.0,,,,1177,Harry,7,Truman,2759517
+1005,Harry S. Truman,1974.0,,,,1045,Harry,12,Truman,2774144
+1006,Harry S. Truman,1975.0,,,,1035,Harry,11,Truman,2744651
+1007,Harry S. Truman,1976.0,,,,930,Harry,11,Truman,2754069
+1008,Harry S. Truman,1977.0,,,,924,Harry,12,Truman,2882671
+1009,Harry S. Truman,1978.0,,,,875,Harry,5,Truman,2877289
+1010,Harry S. Truman,1979.0,,,,880,Harry,5,Truman,3018685
+1011,Harry S. Truman,1980.0,,,,828,Harry,7,Truman,3130096
+1012,Harry S. Truman,1981.0,,,,804,Harry,0,Truman,3145554
+1013,Harry S. Truman,1982.0,,,,751,Harry,0,Truman,3192364
+1014,Harry S. Truman,1983.0,,,,713,Harry,5,Truman,3153008
+1015,Harry S. Truman,1984.0,,,,686,Harry,5,Truman,3176106
+1016,Harry S. Truman,1985.0,,,,746,Harry,14,Truman,3245530
+1017,Harry S. Truman,1986.0,,,,633,Harry,6,Truman,3227500
+1018,Harry S. Truman,1987.0,,,,666,Harry,12,Truman,3265895
+1019,Harry S. Truman,1988.0,,,,633,Harry,0,Truman,3340519
+1020,Harry S. Truman,1989.0,,,,708,Harry,12,Truman,3475179
+1021,Harry S. Truman,1990.0,,,,583,Harry,10,Truman,3566331
+1022,Harry S. Truman,1991.0,,,,596,Harry,20,Truman,3502689
+1023,Harry S. Truman,1992.0,,,,604,Harry,8,Truman,3442170
+1024,Harry S. Truman,1993.0,,,,526,Harry,20,Truman,3363860
+1025,Harry S. Truman,1994.0,,,,500,Harry,33,Truman,3307185
+1026,Harry S. Truman,1995.0,,,,459,Harry,22,Truman,3249146
+1027,Harry S. Truman,1996.0,,,,418,Harry,58,Truman,3224919
+1028,Harry S. Truman,1997.0,,,,393,Harry,33,Truman,3193018
+1029,Harry S. Truman,1998.0,,,,445,Harry,57,Truman,3229407
+1030,Harry S. Truman,1999.0,,,,410,Harry,61,Truman,3233110
+1031,Harry S. Truman,2000.0,,,,377,Harry,86,Truman,3296850
+1032,Harry S. Truman,2001.0,,,,394,Harry,60,Truman,3250984
+1033,Harry S. Truman,2002.0,,,,392,Harry,79,Truman,3238053
+1034,Harry S. Truman,2003.0,,,,403,Harry,94,Truman,3288978
+1035,Harry S. Truman,2004.0,,,,385,Harry,99,Truman,3293984
+1036,Harry S. Truman,2005.0,,,,423,Harry,112,Truman,3305315
+1037,Harry S. Truman,2006.0,,,,376,Harry,150,Truman,3387737
+1038,Harry S. Truman,2007.0,,,,395,Harry,148,Truman,3412417
+1039,Harry S. Truman,2008.0,,,,333,Harry,111,Truman,3340318
+1040,Harry S. Truman,2009.0,,,,332,Harry,124,Truman,3232116
+1041,Harry S. Truman,2010.0,,,,306,Harry,147,Truman,3116548
+1042,Harry S. Truman,2011.0,,,,280,Harry,121,Truman,3079145
+1043,Harry S. Truman,2012.0,,,,269,Harry,165,Truman,3073858
+1044,Harry S. Truman,2013.0,,,,295,Harry,158,Truman,3066443
+1045,Harry S. Truman,2014.0,,,,286,Harry,158,Truman,3113611
+1046,Harry S. Truman,2015.0,,,,0,Harry,0,Truman,0
+1047,Franklin D. Roosevelt,1929.0,,,,1023,Franklin,470,Roosevelt,2040623
+1048,Franklin D. Roosevelt,1930.0,,,,1063,Franklin,512,Roosevelt,2070844
+1049,Franklin D. Roosevelt,1931.0,,,,1057,Franklin,436,Roosevelt,1958859
+1050,Franklin D. Roosevelt,1932.0,,,,2756,Franklin,816,Roosevelt,1964421
+1051,Franklin D. Roosevelt,1933.0,,,,5355,Franklin,1187,Roosevelt,1857674
+1052,Franklin D. Roosevelt,1934.0,,,,4144,Franklin,985,Roosevelt,1933466
+1053,Franklin D. Roosevelt,1935.0,,,,2601,Franklin,736,Roosevelt,1946981
+1054,Franklin D. Roosevelt,1936.0,,,,2933,Franklin,716,Roosevelt,1936249
+1055,Franklin D. Roosevelt,1937.0,,,,2509,Franklin,652,Roosevelt,1986759
+1056,Franklin D. Roosevelt,1938.0,,,,1994,Franklin,631,Roosevelt,2068294
+1057,Franklin D. Roosevelt,1939.0,,,,1829,Franklin,567,Roosevelt,2059878
+1058,Franklin D. Roosevelt,1940.0,,,,2375,Franklin,608,Roosevelt,2157632
+1059,Franklin D. Roosevelt,1944.0,,,,1798,Franklin,541,Roosevelt,2537120
+1060,Franklin D. Roosevelt,1945.0,,,,1874,Franklin,539,Roosevelt,2501963
+1061,Franklin D. Roosevelt,1946.0,,,,1694,Franklin,495,Roosevelt,3032350
+1062,Franklin D. Roosevelt,1947.0,,,,1756,Franklin,528,Roosevelt,3427532
+1063,Franklin D. Roosevelt,1948.0,,,,1536,Franklin,572,Roosevelt,3280438
+1064,Franklin D. Roosevelt,1949.0,,,,1599,Franklin,589,Roosevelt,3312353
+1065,Franklin D. Roosevelt,1950.0,,,,1615,Franklin,561,Roosevelt,3330666
+1066,Franklin D. Roosevelt,1951.0,,,,1689,Franklin,539,Roosevelt,3504403
+1067,Franklin D. Roosevelt,1952.0,,,,1692,Franklin,571,Roosevelt,3617370
+1068,Franklin D. Roosevelt,1953.0,,,,1750,Franklin,565,Roosevelt,3665807
+1069,Franklin D. Roosevelt,1954.0,,,,1811,Franklin,582,Roosevelt,3790625
+1070,Franklin D. Roosevelt,1955.0,,,,1748,Franklin,571,Roosevelt,3821699
+1071,Franklin D. Roosevelt,1956.0,,,,1764,Franklin,589,Roosevelt,3926008
+1072,Franklin D. Roosevelt,1957.0,,,,1677,Franklin,562,Roosevelt,4002231
+1073,Franklin D. Roosevelt,1958.0,,,,1563,Franklin,469,Roosevelt,3933693
+1074,Franklin D. Roosevelt,1959.0,,,,1538,Franklin,451,Roosevelt,3955363
+1075,Franklin D. Roosevelt,1960.0,,,,1510,Franklin,452,Roosevelt,3948284
+1076,Franklin D. Roosevelt,1961.0,,,,1505,Franklin,403,Roosevelt,3929909
+1077,Franklin D. Roosevelt,1962.0,,,,1506,Franklin,402,Roosevelt,3826131
+1078,Franklin D. Roosevelt,1963.0,,,,1511,Franklin,427,Roosevelt,3747914
+1079,Franklin D. Roosevelt,1964.0,,,,1478,Franklin,372,Roosevelt,3674865
+1080,Franklin D. Roosevelt,1965.0,,,,1350,Franklin,337,Roosevelt,3420034
+1081,Franklin D. Roosevelt,1966.0,,,,1280,Franklin,286,Roosevelt,3268132
+1082,Franklin D. Roosevelt,1967.0,,,,1172,Franklin,271,Roosevelt,3184540
+1083,Franklin D. Roosevelt,1968.0,,,,1151,Franklin,275,Roosevelt,3160072
+1084,Franklin D. Roosevelt,1969.0,,,,1207,Franklin,238,Roosevelt,3245564
+1085,Franklin D. Roosevelt,1970.0,,,,1193,Franklin,262,Roosevelt,3359931
+1086,Franklin D. Roosevelt,1971.0,,,,1110,Franklin,238,Roosevelt,3177813
+1087,Franklin D. Roosevelt,1972.0,,,,899,Franklin,197,Roosevelt,2890397
+1088,Franklin D. Roosevelt,1973.0,,,,915,Franklin,175,Roosevelt,2759517
+1089,Franklin D. Roosevelt,1974.0,,,,876,Franklin,193,Roosevelt,2774144
+1090,Franklin D. Roosevelt,1975.0,,,,832,Franklin,167,Roosevelt,2744651
+1091,Franklin D. Roosevelt,1976.0,,,,768,Franklin,190,Roosevelt,2754069
+1092,Franklin D. Roosevelt,1977.0,,,,845,Franklin,174,Roosevelt,2882671
+1093,Franklin D. Roosevelt,1978.0,,,,812,Franklin,125,Roosevelt,2877289
+1094,Franklin D. Roosevelt,1979.0,,,,834,Franklin,159,Roosevelt,3018685
+1095,Franklin D. Roosevelt,1980.0,,,,854,Franklin,178,Roosevelt,3130096
+1096,Franklin D. Roosevelt,1981.0,,,,772,Franklin,131,Roosevelt,3145554
+1097,Franklin D. Roosevelt,1982.0,,,,827,Franklin,133,Roosevelt,3192364
+1098,Franklin D. Roosevelt,1983.0,,,,697,Franklin,120,Roosevelt,3153008
+1099,Franklin D. Roosevelt,1984.0,,,,760,Franklin,129,Roosevelt,3176106
+1100,Franklin D. Roosevelt,1985.0,,,,786,Franklin,116,Roosevelt,3245530
+1101,Franklin D. Roosevelt,1986.0,,,,752,Franklin,107,Roosevelt,3227500
+1102,Franklin D. Roosevelt,1987.0,,,,777,Franklin,107,Roosevelt,3265895
+1103,Franklin D. Roosevelt,1988.0,,,,808,Franklin,116,Roosevelt,3340519
+1104,Franklin D. Roosevelt,1989.0,,,,863,Franklin,121,Roosevelt,3475179
+1105,Franklin D. Roosevelt,1990.0,,,,817,Franklin,119,Roosevelt,3566331
+1106,Franklin D. Roosevelt,1991.0,,,,826,Franklin,105,Roosevelt,3502689
+1107,Franklin D. Roosevelt,1992.0,,,,819,Franklin,99,Roosevelt,3442170
+1108,Franklin D. Roosevelt,1993.0,,,,677,Franklin,93,Roosevelt,3363860
+1109,Franklin D. Roosevelt,1994.0,,,,665,Franklin,68,Roosevelt,3307185
+1110,Franklin D. Roosevelt,1995.0,,,,620,Franklin,63,Roosevelt,3249146
+1111,Franklin D. Roosevelt,1996.0,,,,664,Franklin,39,Roosevelt,3224919
+1112,Franklin D. Roosevelt,1997.0,,,,549,Franklin,56,Roosevelt,3193018
+1113,Franklin D. Roosevelt,1998.0,,,,600,Franklin,13,Roosevelt,3229407
+1114,Franklin D. Roosevelt,1999.0,,,,535,Franklin,46,Roosevelt,3233110
+1115,Franklin D. Roosevelt,2000.0,,,,500,Franklin,18,Roosevelt,3296850
+1116,Franklin D. Roosevelt,2001.0,,,,482,Franklin,28,Roosevelt,3250984
+1117,Franklin D. Roosevelt,2002.0,,,,476,Franklin,26,Roosevelt,3238053
+1118,Franklin D. Roosevelt,2003.0,,,,502,Franklin,29,Roosevelt,3288978
+1119,Franklin D. Roosevelt,2004.0,,,,464,Franklin,10,Roosevelt,3293984
+1120,Franklin D. Roosevelt,2005.0,,,,527,Franklin,14,Roosevelt,3305315
+1121,Franklin D. Roosevelt,2006.0,,,,581,Franklin,29,Roosevelt,3387737
+1122,Franklin D. Roosevelt,2007.0,,,,540,Franklin,14,Roosevelt,3412417
+1123,Franklin D. Roosevelt,2008.0,,,,545,Franklin,21,Roosevelt,3340318
+1124,Franklin D. Roosevelt,2009.0,,,,476,Franklin,13,Roosevelt,3232116
+1125,Franklin D. Roosevelt,2010.0,,,,471,Franklin,26,Roosevelt,3116548
+1126,Franklin D. Roosevelt,2011.0,,,,477,Franklin,15,Roosevelt,3079145
+1127,Franklin D. Roosevelt,2012.0,,,,449,Franklin,8,Roosevelt,3073858
+1128,Franklin D. Roosevelt,2013.0,,,,508,Franklin,7,Roosevelt,3066443
+1129,Franklin D. Roosevelt,2014.0,,,,618,Franklin,11,Roosevelt,3113611
+1130,Franklin D. Roosevelt,2015.0,,,,0,Franklin,0,Roosevelt,0
