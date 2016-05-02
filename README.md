@@ -17,7 +17,7 @@
 	1)Does the approval rating of a President influence the rate of babies named after them?
 	2)Does a famous sports player's MVP status influence the popularity of babies named after their MVP recognition?
 	3)Do characters from top movies names influence the popularity of babies named after their release?
-	No they seem to have no affect on the popularity of the name (see movie_exploration.ipynb)
+	- No they seem to have no affect on the popularity of the name (see movie_exploration.ipynb)
 	
 	4)Does Disney Character's names influence the popularity of babies named after the film's release?
 
