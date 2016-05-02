@@ -25,7 +25,7 @@
 Presidential Approval
 Ensure that the approval_analysis.R script and the data/ directory is in the parent directory. The analysis draws from the data/presApprovalAverage.csv.  Set your working directory to the parent directory of the R script and then run the code. 
 
-Movie Characters
+Movie Characters: 
 Run movie_exploration.ipynb after having downloaded the data/ folder
 
 Disney Characters
