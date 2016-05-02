@@ -10,7 +10,7 @@ normalize <- function(x) {
 #######################
 ## DATA MANIPULATION ##
 #######################
-avg <- read.csv('data/presApprovalAverage.csv')
+avg <- read.csv('/Users/rachelhankins/Desktop/celeb_baby_names/data/presApprovalAverage.csv')
 avg$fname_rate<-avg$f_count/avg$total
 avg$lname_rate<-avg$l_count/avg$total
 avg$norm_appr<-ave( avg$Approving, avg$President, FUN = normalize )
